@@ -1,0 +1,114 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "7237d005eb0830f15a6bcb286f653b43a8761cb6",
+    "size": 36,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/7237d005eb0830f15a6bcb286f653b43a8761cb6",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/7237d005eb0830f15a6bcb286f653b43a8761cb6",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "2f18d617c4479a7b5c5fd82d4eebf0db6f838171",
+    "size": 2133,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/README.md?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/2f18d617c4479a7b5c5fd82d4eebf0db6f838171",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/2f18d617c4479a7b5c5fd82d4eebf0db6f838171",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/README.md"
+    }
+  },
+  {
+    "name": "batch-dl.sh",
+    "path": "batch-dl.sh",
+    "sha": "dffbaaaa332e5b9571619037f16cfd292bba83e2",
+    "size": 3760,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/batch-dl.sh?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/batch-dl.sh",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/dffbaaaa332e5b9571619037f16cfd292bba83e2",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/batch-dl.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/batch-dl.sh?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/dffbaaaa332e5b9571619037f16cfd292bba83e2",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/batch-dl.sh"
+    }
+  },
+  {
+    "name": "build-catalog.sh",
+    "path": "build-catalog.sh",
+    "sha": "eb7f4d15fecf53d764524a5f2b0b11be3cad898d",
+    "size": 5779,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/build-catalog.sh?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/build-catalog.sh",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/eb7f4d15fecf53d764524a5f2b0b11be3cad898d",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/build-catalog.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/build-catalog.sh?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/eb7f4d15fecf53d764524a5f2b0b11be3cad898d",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/build-catalog.sh"
+    }
+  },
+  {
+    "name": "catalog.json",
+    "path": "catalog.json",
+    "sha": "c44eb96859edd9029b508c540ae8a05850775121",
+    "size": 340320,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/catalog.json?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/catalog.json",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/c44eb96859edd9029b508c540ae8a05850775121",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/catalog.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/catalog.json?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/c44eb96859edd9029b508c540ae8a05850775121",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/catalog.json"
+    }
+  },
+  {
+    "name": "met-dl.sh",
+    "path": "met-dl.sh",
+    "sha": "eb0c1247e13efb38ce697bba52cb27a18a6b6164",
+    "size": 4101,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/met-dl.sh?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/met-dl.sh",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/eb0c1247e13efb38ce697bba52cb27a18a6b6164",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/met-dl.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/met-dl.sh?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/eb0c1247e13efb38ce697bba52cb27a18a6b6164",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/met-dl.sh"
+    }
+  },
+  {
+    "name": "object_ids.txt",
+    "path": "object_ids.txt",
+    "sha": "251bfccda815f743df3b01006cf3bf2e437a723c",
+    "size": 895,
+    "url": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/object_ids.txt?ref=master",
+    "html_url": "https://github.com/InconsolableCellist/met_scans/blob/master/object_ids.txt",
+    "git_url": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/251bfccda815f743df3b01006cf3bf2e437a723c",
+    "download_url": "https://raw.githubusercontent.com/InconsolableCellist/met_scans/master/object_ids.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/InconsolableCellist/met_scans/contents/object_ids.txt?ref=master",
+      "git": "https://api.github.com/repos/InconsolableCellist/met_scans/git/blobs/251bfccda815f743df3b01006cf3bf2e437a723c",
+      "html": "https://github.com/InconsolableCellist/met_scans/blob/master/object_ids.txt"
+    }
+  }
+]

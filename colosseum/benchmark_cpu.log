@@ -1,0 +1,3 @@
+00:06.801  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/output/Colosseum_AD160.blend"
+01:31.215  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/cpu_0001.png'
+FRAME_DONE {"frame": 1, "seconds": 78.3, "engine": "CYCLES", "samples": 4, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/cpu_0001.png"}

@@ -1,0 +1,16 @@
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/build_scene.py:16: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(n);m.diffuse_color=(*color,1);m.use_nodes=True;p=m.node_tree.nodes.get('Principled BSDF');p.inputs['Base Color'].default_value=(*color,1);p.inputs['Roughness'].default_value=rough;p.inputs['Metallic'].default_value=metal
+HOTEL 240362
+TERRACE 108516
+CITY 565192
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/build_scene.py:421: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Photographic dawn sky');scene.world=world;world.use_nodes=True;nodes=world.node_tree.nodes;links=world.node_tree.links;nodes.clear();out=nodes.new('ShaderNodeOutputWorld');bg=nodes.new('ShaderNodeBackground');env=nodes.new('ShaderNodeTexEnvironment');env.image=bpy.data.images.load(os.path.join(WORK,'references/dawn.hdr'));env.image.pack();bg.inputs['Strength'].default_value=.65;links.new(env.outputs[0],bg.inputs[0]);links.new(bg.outputs[0],out.inputs[0])
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/build_scene.py:426: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  fog=bpy.data.materials.new('River aerial perspective');fog.use_nodes=True;nn=fog.node_tree.nodes;nn.clear();oo=nn.new('ShaderNodeOutputMaterial');vv=nn.new('ShaderNodeVolumePrincipled');vv.inputs['Density'].default_value=.00065;vv.inputs['Color'].default_value=(.64,.73,.82,1);vv.inputs['Anisotropy'].default_value=.25;fog.node_tree.links.new(vv.outputs['Volume'],oo.inputs['Volume'])
+Info: Saved as "Chateau_Frontenac.blend"
+SAVED
+01:50.335  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/preview_100.png'
+PREVIEW DONE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

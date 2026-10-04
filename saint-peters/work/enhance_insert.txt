@@ -1,0 +1,24 @@
+# Curved exterior apses and their lead half-domes.
+group='Basilica | articulated apses and roof terraces'
+for cx,cy,rr,hh in [(-60,-113,23,45),(60,-113,23,45),(0,-185,35,45)]:
+ lathe((cx,cy,0),[(rr,0),(rr,hh),(rr+1,hh+.6),(rr+1,hh+1.1)],stone,64)
+ lathe((cx,cy,hh+1),[(rr*cos(k*pi/64),13*sin(k*pi/64)) for k in range(33)],lead,64)
+ for j in range(20):
+  a=j*2*pi/20;xx=cx+(rr+.25)*cos(a);yy=cy+(rr+.25)*sin(a)
+  box((xx,yy,23),(1.7,1.2,40),trim,a+pi/2)
+  aa=a+pi/20;xx=cx+(rr+.09)*cos(aa);yy=cy+(rr+.09)*sin(aa)
+  box((xx,yy,27),(2.6,.16,8),dark,aa+pi/2)
+  box((xx,yy,32),(3.4,.55,.4),trim,aa+pi/2)
+for side in [-1,1]:
+ for yy in range(-170,-18,12):
+  box((side*41.1,yy,27),(.12,3.5,8.5),glass)
+  for off in [-2,2]:box((side*41.3,yy+off,27),(.4,.35,9),trim)
+  box((side*41.4,yy,31.7),(.7,4.7,.4),trim)
+ for zz in [3,15,36,42]:box((side*41.5,-100,zz),(1.2,176,.55),trim)
+ # protective rails on nave terrace
+ balustrade((side*40,-176,0),(side*40,-12,0),43,.9,1.15)
+# Fine coffering below the entablature and rusticated forecourt arms.
+for side in [-1,1]:
+ a=Vector((side*58,8,0));b=Vector((side*37,109,0));d=b-a;mid=(a+b)/2;ang=math.atan2(d.y,d.x)
+ for zz in [1.2,3.5,14.8]:box((mid.x-side*4.6,mid.y,zz),(d.length,.4,.4),trim,ang)
+# Architectural bevels catch light at stone corners.

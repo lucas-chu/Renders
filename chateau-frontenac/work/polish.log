@@ -1,0 +1,11 @@
+00:00.456  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/outputs/Chateau_Frontenac.blend"
+00:40.095  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/finalcheck_080.png'
+Info: Saved as "Chateau_Frontenac.blend"
+CHECK 80 25.161207914352417
+00:46.365  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/finalcheck_350.png'
+CHECK 350 6.226370096206665
+00:48.403  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/finalcheck_650.png'
+CHECK 650 2.0351128578186035
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

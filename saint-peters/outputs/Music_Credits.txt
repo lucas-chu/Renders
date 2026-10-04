@@ -1,0 +1,15 @@
+ST PETER’S BASILICA — 4K / AVE MARIA
+
+Video: 30-second Blender architectural flythrough, upscaled from 1920 × 1080 to 3840 × 2160 at 24 fps using Lanczos resampling and restrained sharpening.
+
+Music: Ave Maria, D.839, Franz Schubert (public-domain composition).
+Performance: Tomaz Kovacic, baritone; Michael Stenov, organ.
+Live Latin performance, 2019. Published by Michael Stenov.
+Recording source: https://imslp.org/wiki/Ave_Maria_(Schubert,_Franz)
+IMSLP recording number: 577775.
+Recording license: Creative Commons Attribution-ShareAlike 4.0 International.
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: excerpt from approximately 00:34.5–01:04.5, low-frequency rumble reduction, loudness normalization, opening and closing fades, synchronization with video.
+The resulting synchronized audiovisual adaptation is distributed under CC BY-SA 4.0. No endorsement by the performers is implied.
+
+Original scene notes and applicable map-data attribution are in Scene_notes.md beside the original Blender scene and film.

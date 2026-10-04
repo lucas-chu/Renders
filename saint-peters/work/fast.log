@@ -1,0 +1,9 @@
+00:00.516  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/make/outputs/Saint_Peters_Basilica.blend"
+SUN [('use_shadow', 'BOOLEAN'), ('shadow_buffer_clip_start', 'FLOAT'), ('shadow_soft_size', 'FLOAT'), ('shadow_filter_radius', 'FLOAT'), ('shadow_maximum_resolution', 'FLOAT'), ('use_shadow_jitter', 'BOOLEAN'), ('shadow_jitter_overblur', 'FLOAT'), ('shadow_cascade_max_distance', 'FLOAT'), ('shadow_cascade_count', 'INT'), ('shadow_cascade_exponent', 'FLOAT'), ('shadow_cascade_fade', 'FLOAT')]
+00:06.078  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/fast_360.png'
+BENCH 360 3.062252998352051
+00:08.829  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/fast_361.png'
+BENCH 361 2.748936176300049
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

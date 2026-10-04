@@ -1,0 +1,11 @@
+00:37.741  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/output/Colosseum_AD160.blend"
+04:25.108  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0001.png'
+FRAME_DONE {"frame": 1, "seconds": 205.88, "engine": "BLENDER_EEVEE", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0001.png"}
+04:32.100  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0350.png'
+FRAME_DONE {"frame": 350, "seconds": 6.95, "engine": "BLENDER_EEVEE", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0350.png"}
+04:37.284  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0650.png'
+FRAME_DONE {"frame": 650, "seconds": 5.17, "engine": "BLENDER_EEVEE", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/eevee_0650.png"}
+RENDER_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

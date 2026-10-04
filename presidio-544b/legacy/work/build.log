@@ -1,0 +1,25 @@
+/Users/lucaschu/Documents/ChatGPT/Renders/work/build_scene.py:14: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*color,1);m.use_nodes=True;p=m.node_tree.nodes.get('Principled BSDF');p.inputs['Base Color'].default_value=(*color,1);p.inputs['Roughness'].default_value=rough;p.inputs['Metallic'].default_value=metal;M.append(m);return len(M)-1
+ARCHITECTURE COMPLETE 76
+ASSET LOADED island_tree_02 ['island_tree_02_LOD1']
+ASSET LOADED tree_small_02 ['tree_small_02_LOD1']
+ASSET LOADED pine_tree_01 ['pine_tree_01_c_LOD2', 'pine_tree_01_b_LOD2', 'pine_tree_01_a_LOD2']
+ASSET LOADED shrub_01 ['shrub_01_i_LOD3', 'shrub_01_c_LOD2', 'shrub_01_b_LOD2', 'shrub_01_a_LOD2']
+ASSET LOADED grass_medium_01 ['grass_medium_01_tall_a_LOD2', 'grass_medium_01_small_b_LOD1', 'grass_medium_01_small_a_LOD1']
+LANDSCAPE COMPLETE 3017
+/Users/lucaschu/Documents/ChatGPT/Renders/work/build_scene.py:470: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Cool maritime morning sky');sc.world=world;world.use_nodes=True
+Info: Packed 63 file(s)
+Info: Saved as "Presidio_544B.blend"
+SAVED 3045 objects
+01:56.797  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/preview_0300.png'
+PREVIEW 300 67.78
+02:44.190  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/preview_0001.png'
+PREVIEW 1 44.48
+03:14.330  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/preview_0450.png'
+PREVIEW 450 29.79
+03:54.726  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/preview_0720.png'
+PREVIEW 720 40.5
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

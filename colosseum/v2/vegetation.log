@@ -1,0 +1,33 @@
+00:01.276  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/output/Colosseum_AD160.blend"
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/scripts/vegetation.py:19: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(f'Pine needles {k}');m.use_nodes=True;m.diffuse_color=(*c,1);bs=m.node_tree.nodes.get('Principled BSDF');bs.inputs['Base Color'].default_value=(*c,1);bs.inputs['Roughness'].default_value=.61;G.MATS[m.name]=m
+MESH 22p | Botanical prototype 0 Bark 1314 899
+MESH 22p | Botanical prototype 0 Pine needles 2 6005 4804
+MESH 22p | Botanical prototype 0 Pine needles 1 5595 4476
+MESH 22p | Botanical prototype 0 Pine needles 0 5725 4580
+MESH 22p | Botanical prototype 1 Bark 1314 899
+MESH 22p | Botanical prototype 1 Pine needles 2 5900 4720
+MESH 22p | Botanical prototype 1 Pine needles 0 5565 4452
+MESH 22p | Botanical prototype 1 Pine needles 1 5860 4688
+MESH 22p | Botanical prototype 2 Bark 1314 899
+MESH 22p | Botanical prototype 2 Pine needles 0 5760 4608
+MESH 22p | Botanical prototype 2 Pine needles 1 5745 4596
+MESH 22p | Botanical prototype 2 Pine needles 2 5820 4656
+MESH 22p | Botanical prototype 3 Bark 1314 899
+MESH 22p | Botanical prototype 3 Pine needles 2 5610 4488
+MESH 22p | Botanical prototype 3 Pine needles 0 5830 4664
+MESH 22p | Botanical prototype 3 Pine needles 1 5885 4708
+MESH 22p | Botanical prototype 4 Bark 20 12
+MESH 22p | Botanical prototype 4 Pine needles 0 3240 2592
+MESH 22p | Botanical prototype 4 Pine needles 1 3055 2444
+MESH 22p | Botanical prototype 4 Pine needles 3 3205 2564
+MESH 22p | Botanical prototype 5 Bark 20 12
+MESH 22p | Botanical prototype 5 Pine needles 3 3315 2652
+MESH 22p | Botanical prototype 5 Pine needles 1 3075 2460
+MESH 22p | Botanical prototype 5 Pine needles 0 3110 2488
+Info: No new files have been packed
+Info: Saved as "Colosseum_AD160.blend"
+BOTANICAL DETAIL SAVED
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,10 @@
+00:00.492  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/make/outputs/Saint_Peters_Basilica.blend"
+00:11.763  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/eevee_full_120.png'
+BENCH 120 8.253240823745728
+00:19.570  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/eevee_full_121.png'
+BENCH 121 7.807780742645264
+00:26.609  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/eevee_full_360.png'
+BENCH 360 7.0431928634643555
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

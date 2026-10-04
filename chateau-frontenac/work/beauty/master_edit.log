@@ -1,0 +1,20 @@
+01:03.179  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/outputs/Chateau_Frontenac_Beauty.blend"
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:9: DeprecationWarning: 'SceneStrip.frame_final_start' is expected to be removed in Blender 6.0
+  strip.frame_final_start=sh['start'];strip.frame_final_end=sh['end']+1;strip.scene_camera=bpy.data.objects[sh['camera']];strip.scene_input='CAMERA'
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:9: DeprecationWarning: 'SceneStrip.frame_final_end' is expected to be removed in Blender 6.0
+  strip.frame_final_start=sh['start'];strip.frame_final_end=sh['end']+1;strip.scene_camera=bpy.data.objects[sh['camera']];strip.scene_input='CAMERA'
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:12: DeprecationWarning: 'SoundStrip.frame_final_end' is expected to be removed in Blender 6.0
+  strip=ed.strips.new_sound('O Canada | Toronto Symphony Orchestra',audio,channel=2,frame_start=1);strip.frame_final_end=721
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:20: DeprecationWarning: 'SceneStrip.frame_final_start' is expected to be removed in Blender 6.0
+  print('EDIT VERIFIED',[(v.name,v.frame_final_start,v.frame_final_end) for v in ed.strips],flush=True)
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:20: DeprecationWarning: 'SceneStrip.frame_final_end' is expected to be removed in Blender 6.0
+  print('EDIT VERIFIED',[(v.name,v.frame_final_start,v.frame_final_end) for v in ed.strips],flush=True)
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:20: DeprecationWarning: 'SoundStrip.frame_final_start' is expected to be removed in Blender 6.0
+  print('EDIT VERIFIED',[(v.name,v.frame_final_start,v.frame_final_end) for v in ed.strips],flush=True)
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/master_edit.py:20: DeprecationWarning: 'SoundStrip.frame_final_end' is expected to be removed in Blender 6.0
+  print('EDIT VERIFIED',[(v.name,v.frame_final_start,v.frame_final_end) for v in ed.strips],flush=True)
+Info: Saved as "Chateau_Frontenac_Beauty.blend"
+EDIT VERIFIED [('01 | Terrace intimacy', 1, 193), ('02 | Copper and stone', 193, 361), ('03 | Enter Bar 1608', 361, 553), ('04 | Onyx, crystal and warm light', 553, 649), ('05 | Château closing portrait', 649, 721), ('O Canada | Toronto Symphony Orchestra', 1, 721)]
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

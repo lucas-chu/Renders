@@ -1,0 +1,11 @@
+{
+  "frames": 720,
+  "duration": 30.0,
+  "size": [
+    3840,
+    2160
+  ],
+  "audio_channels": 2,
+  "exterior_frames_checked": 432,
+  "minimum_brick_color_fraction": 0.18846153846153846
+}

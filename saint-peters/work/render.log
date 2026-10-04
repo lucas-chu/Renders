@@ -1,0 +1,19 @@
+00:00.528  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/make/outputs/Saint_Peters_Basilica.blend"
+Info: Saved as "Saint_Peters_Basilica.blend"
+RENDER START 1 12 1788580152.292783
+00:07.038  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0001.png'
+00:08.211  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0002.png'
+00:09.345  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0003.png'
+00:10.606  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0004.png'
+00:11.259  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0005.png'
+00:11.967  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0006.png'
+00:12.700  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0007.png'
+00:13.406  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0008.png'
+00:14.001  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0009.png'
+00:14.585  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0010.png'
+00:15.300  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0011.png'
+00:15.934  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/frames/frame_0012.png'
+RENDER FINISHED 1788580165.2196548
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

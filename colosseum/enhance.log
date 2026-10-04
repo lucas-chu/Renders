@@ -1,0 +1,34 @@
+00:01.982  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/output/Colosseum_AD160.blend"
+09:48:01 | INFO: Data are loaded, start creating Blender stuff
+09:48:01 | INFO: Blender create Mesh node _n3d
+09:48:01 | INFO: Draco Decoder: Decode primitive _n3d
+09:48:02 | INFO: glTF import finished in 0.96s
+SCAN 242017 BOUNDS (-0.36375340819358826, -0.17991989850997925, -0.5959529280662537) (0.31236061453819275, 0.17244954407215118, 0.6774101257324219)
+09:48:06 | INFO: Data are loaded, start creating Blender stuff
+09:48:06 | INFO: Blender create Mesh node _n3d
+09:48:06 | INFO: Draco Decoder: Decode primitive _n3d
+09:48:07 | INFO: glTF import finished in 1.16s
+SCAN 254613 BOUNDS (-0.2234237641096115, -0.1375410109758377, -0.001968424068763852) (0.10851103812456131, 0.05919749289751053, 0.6379111409187317)
+09:48:13 | INFO: Data are loaded, start creating Blender stuff
+09:48:13 | INFO: Blender create Mesh node _n3d
+09:48:13 | INFO: Draco Decoder: Decode primitive _n3d
+09:48:14 | INFO: glTF import finished in 0.63s
+SCAN 242211 BOUNDS (-0.09202879667282104, -0.04663963243365288, -0.2100861519575119) (0.09238837659358978, 0.04313177987933159, 0.24623562395572662)
+MESH 05 | Colosseum — sculpture plinths Marble 1280 960
+09:48:17 | INFO: Data are loaded, start creating Blender stuff
+09:48:17 | INFO: Blender create Mesh node Pedestal_n3d
+09:48:17 | INFO: Draco Decoder: Decode primitive Pedestal_n3d
+09:48:17 | INFO: Draco Decoder: Decode primitive Pedestal_n3d
+09:48:17 | INFO: glTF import finished in 0.57s
+SCAN 204758 BOUNDS (-0.8826807141304016, -0.6393424868583679, -1.5690480470657349) (1.0396654605865479, 0.5091952681541443, 2.0100135803222656)
+Info: No new files have been packed
+Info: Saved as "Colosseum_AD160.blend"
+VISUAL ENHANCEMENT COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+DracoDecoder | Decoded 79711 vertices, 299955 indices
+DracoDecoder | Decoded 102116 vertices, 299958 indices
+DracoDecoder | Decoded 61487 vertices, 299958 indices
+DracoDecoder | Decoded 2581 vertices, 13083 indices
+DracoDecoder | Decoded 56554 vertices, 286917 indices
+
+Blender quit

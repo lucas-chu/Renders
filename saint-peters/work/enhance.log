@@ -1,0 +1,12 @@
+/Users/lucaschu/Documents/Codex/2026-09-04/make/work/build_scene.py:10: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name); m.diffuse_color=(*color,1); m.use_nodes=True
+GEOMETRY 591986
+/Users/lucaschu/Documents/Codex/2026-09-04/make/work/build_scene.py:403: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Roman morning sky');world.use_nodes=True;bpy.context.scene.world=world
+00:09.918  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/qa_120.png'
+00:15.423  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/qa_360.png'
+00:19.067  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/make/work/qa_600.png'
+Info: Saved as "Saint_Peters_Basilica.blend"
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

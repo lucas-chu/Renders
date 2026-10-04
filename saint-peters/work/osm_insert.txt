@@ -1,0 +1,42 @@
+# Georeferenced surrounding building footprints, © OpenStreetMap contributors.
+import json
+osm=json.load(open(ROOT+'/work/references/vatican_buildings.json'))
+group='Vatican and Borgo | OpenStreetMap footprints'
+for el in osm['elements']:
+ tags=el.get('tags',{});geo=el.get('geometry',[])
+ if len(geo)<4 or el['id']==244159210 or 'Colonnato' in tags.get('name',''):continue
+ pts=[((p['lat']-41.902165)*111195,(p['lon']-12.455025)*82770) for p in geo[:-1]]
+ cx=sum(p[0] for p in pts)/len(pts);cy=sum(p[1] for p in pts)/len(pts)
+ if abs(cx)<88 and -230<cy<15:continue
+ if abs(cx)<120 and 105<cy<270:continue
+ if abs(cx)<62 and 0<cy<115:continue
+ if tags.get('building') in ['roof','carport']:continue
+ area=abs(sum(pts[k][0]*pts[(k+1)%len(pts)][1]-pts[(k+1)%len(pts)][0]*pts[k][1] for k in range(len(pts))))/2
+ if area<12 or area>27000:continue
+ rng=random.Random(el['id']);ma=plasters[rng.randrange(len(plasters))]
+ try:hh=float(tags.get('height',str(float(tags.get('building:levels','5'))*3.4)).replace(' m',''))
+ except:hh=20
+ hh=max(5,min(42,hh));N=len(pts)
+ verts=[(x,y,z) for z in [0,hh] for x,y in pts]
+ mesh(verts,[(k,(k+1)%N,(k+1)%N+N,k+N) for k in range(N)],ma)
+ # Raised warm tile rooftop, following the surveyed perimeter.
+ mesh([(x,y,hh+.16) for x,y in pts],[tuple(range(N))],roof)
+ for k in range(N):
+  ax,ay=pts[k];bx,by=pts[(k+1)%N];dx=bx-ax;dy=by-ay;length=sqrt(dx*dx+dy*dy)
+  if length<2:continue
+  angle=math.atan2(dy,dx);nx=dy/length;ny=-dx/length
+  box(((ax+bx)/2,(ay+by)/2,hh-.25),(length,.6,.55),trim,angle)
+  if abs(cx)<420 and abs(cy)<550 and length>3:
+   for zz in range(4,int(hh)-1,4):
+    for k2 in range(max(1,int(length/4.2))):
+     t=(k2+.5)/max(1,int(length/4.2));xx=ax+dx*t;yy=ay+dy*t
+     # Windows on both sides of wall ensure correct visibility for either polygon winding.
+     box((xx,yy,zz),(1.25,.25,2.05),dark,angle)
+     box((xx,yy,zz-1.12),(1.65,.46,.19),trim,angle)
+  # fine eave shadow at roof edge
+  box(((ax+bx)/2,(ay+by)/2,hh+.1),(length,.4,.2),aged,angle)
+ # chimneys and roof service forms add the scale of a lived-in city
+ if area>180:
+  for k in range(min(5,int(area/220))):
+   pp=pts[k%N];xx=cx*.35+pp[0]*.65;yy=cy*.35+pp[1]*.65
+   box((xx,yy,hh+.8),(.8,1,1.6),ma)

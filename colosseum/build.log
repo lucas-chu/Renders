@@ -1,0 +1,117 @@
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/scripts/build_scene.py:15: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*color,1);m.use_nodes=True;n=m.node_tree.nodes;l=m.node_tree.links;bs=n.get('Principled BSDF');bs.inputs['Base Color'].default_value=(*color,1);bs.inputs['Roughness'].default_value=rough;bs.inputs['Metallic'].default_value=metal
+MATERIALS READY
+EXTERIOR READY
+INTERIOR READY
+RIGGING AND LIFE READY
+MONUMENTS READY
+CITY READY
+MESH 01 | Colosseum — foundation Travertine 514 768
+MESH 01 | Colosseum — foundation Trim 3852 3846
+MESH 02 | Colosseum — outer orders Travertine 112664 86412
+MESH 02 | Colosseum — outer orders Trim 237476 177778
+MESH 03 | Colosseum — attic & clipei Travertine 2884 2482
+MESH 03 | Colosseum — attic & clipei Trim 11526 9122
+MESH 03 | Colosseum — attic & clipei Bronze 7680 6480
+MESH 04 | Colosseum — vaulted ambulatory Travertine 3852 3846
+MESH 04 | Colosseum — vaulted ambulatory ShadowStone 92160 69120
+MESH 05 | Colosseum — sculpture Marble 102080 82720
+MESH 06 | Colosseum — marble cavea Sand 514 768
+MESH 06 | Colosseum — marble cavea Marble 100968 94484
+MESH 06 | Colosseum — marble cavea Trim 48016 37288
+MESH 06 | Colosseum — marble cavea Crimson 640 480
+MESH 06 | Colosseum — marble cavea Window 320 240
+MESH 06 | Colosseum — marble cavea Timber 16 12
+MESH 06 | Colosseum — marble cavea Bronze 112 84
+MESH 07 | Regalia — imperial pulvinar Marble 2416 1652
+MESH 07 | Regalia — imperial pulvinar Crimson 32 24
+MESH 07 | Regalia — imperial pulvinar Gold 272 196
+MESH 08 | Rigging — 240 masts and cables Timber 4800 2880
+MESH 08 | Rigging — 240 masts and cables Trim 1920 1440
+MESH 08 | Rigging — 240 masts and cables Rope 24324 17602
+MESH 09 | Velarium — linen sails Linen 10800 8960
+MESH 09 | Velarium — linen sails Rope 22400 15680
+MESH 10 | Regalia — ceremonial hangings Gold 21520 16320
+MESH 10 | Regalia — ceremonial hangings Crimson 2880 2400
+MESH 11 | Public life — seated spectators Linen 29648 20383
+MESH 11 | Public life — seated spectators Skin 328500 262800
+MESH 11 | Public life — seated spectators Toga 84304 57959
+MESH 11 | Public life — seated spectators Umber 22896 15741
+MESH 11 | Public life — seated spectators Rust 15440 10615
+MESH 11 | Public life — seated spectators Saffron 8384 5764
+MESH 11 | Public life — seated spectators Indigo 14528 9988
+MESH 12 | Public life — precinct gathering Rust 6912 5760
+MESH 12 | Public life — precinct gathering Skin 193248 142560
+MESH 12 | Public life — precinct gathering Hair 47520 39600
+MESH 12 | Public life — precinct gathering Toga 7344 6120
+MESH 12 | Public life — precinct gathering Linen 8160 6800
+MESH 12 | Public life — precinct gathering Indigo 7968 6640
+MESH 12 | Public life — precinct gathering Umber 7632 6360
+MESH 13 | Site — paving and Via Sacra Earth 8 6
+MESH 13 | Site — paving and Via Sacra Paving 594 828
+MESH 13 | Site — paving and Via Sacra Travertine 10256 8492
+MESH 13 | Site — paving and Via Sacra Trim 1284 1282
+MESH 14 | Velia — Temple of Venus and Roma Travertine 16808 12606
+MESH 14 | Velia — Temple of Venus and Roma Marble 29292 22206
+MESH 14 | Velia — Temple of Venus and Roma Plaster 8 6
+MESH 14 | Velia — Temple of Venus and Roma Gold 8 6
+MESH 14 | Velia — Temple of Venus and Roma Terracotta 9378 6250
+MESH 14 | Velia — Temple of Venus and Roma Trim 8200 6632
+MESH 15 | Meta Sudans — fountain Travertine 192 98
+MESH 15 | Meta Sudans — fountain Marble 964 900
+MESH 15 | Meta Sudans — fountain Water 1392 938
+MESH 16 | Colossus of Sol Marble 24 18
+MESH 16 | Colossus of Sol Travertine 8 6
+MESH 16 | Colossus of Sol Trim 8 6
+MESH 16 | Colossus of Sol Bronze 1592 1374
+MESH 16 | Colossus of Sol Gold 112 70
+MESH 17 | Ludus Magnus — gladiatorial school RosePlaster 32 24
+MESH 17 | Ludus Magnus — gladiatorial school ShadowStone 32 24
+MESH 17 | Ludus Magnus — gladiatorial school Terracotta 5752 3832
+MESH 17 | Ludus Magnus — gladiatorial school Window 5280 3960
+MESH 17 | Ludus Magnus — gladiatorial school Trim 7632 6064
+MESH 17 | Ludus Magnus — gladiatorial school Timber 64 48
+MESH 17 | Ludus Magnus — gladiatorial school Sand 514 768
+MESH 17 | Ludus Magnus — gladiatorial school Travertine 4644 4626
+MESH 18 | Landscape — Roman hills Earth 14641 14400
+MESH 19 | Palatine — imperial terraces Travertine 18424 13818
+MESH 19 | Palatine — imperial terraces Plaster 40 30
+MESH 19 | Palatine — imperial terraces ShadowStone 40 30
+MESH 19 | Palatine — imperial terraces Terracotta 5318 3542
+MESH 19 | Palatine — imperial terraces Window 14448 10836
+MESH 19 | Palatine — imperial terraces Trim 25788 20356
+MESH 19 | Palatine — imperial terraces Timber 80 60
+MESH 19 | Palatine — imperial terraces Marble 8 6
+MESH 19 | Palatine — imperial terraces Water 8 6
+MESH 20 | Oppian — bath precinct Travertine 8 6
+MESH 20 | Oppian — bath precinct RosePlaster 32 24
+MESH 20 | Oppian — bath precinct ShadowStone 32 24
+MESH 20 | Oppian — bath precinct Terracotta 88 56
+MESH 20 | Oppian — bath precinct Window 12896 9672
+MESH 20 | Oppian — bath precinct Trim 17200 13660
+MESH 20 | Oppian — bath precinct Timber 64 48
+MESH 21 | City — insulae and courtyard houses RosePlaster 2288 1716
+MESH 21 | City — insulae and courtyard houses ShadowStone 8744 6558
+MESH 21 | City — insulae and courtyard houses Terracotta 702862 467846
+MESH 21 | City — insulae and courtyard houses Window 631904 473928
+MESH 21 | City — insulae and courtyard houses Trim 359056 269292
+MESH 21 | City — insulae and courtyard houses Timber 17936 13396
+MESH 21 | City — insulae and courtyard houses Plaster 4312 3234
+MESH 21 | City — insulae and courtyard houses Ochre 2144 1608
+MESH 21 | City — insulae and courtyard houses Linen 56 14
+MESH 22 | Landscape — pines and cypresses Bark 17188 10620
+MESH 22 | Landscape — pines and cypresses FoliageLight 323892 287904
+MESH 22 | Landscape — pines and cypresses Foliage 375084 333408
+MESH 23 | Landscape — distant horizon Foliage 1944 1728
+ALL GEOMETRY FLUSHED
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/scripts/build_scene.py:462: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Mediterranean afternoon');SC.world=world;world.use_nodes=True;n=world.node_tree.nodes;l=world.node_tree.links;bg=n.get('Background');bg.inputs['Strength'].default_value=.55
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/scripts/build_scene.py:476: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  vol=bpy.data.materials.new('Distant golden air');vol.use_nodes=True;nn=vol.node_tree.nodes;nn.clear();out=nn.new('ShaderNodeOutputMaterial');scat=nn.new('ShaderNodeVolumePrincipled');scat.inputs['Density'].default_value=.00038;scat.inputs['Color'].default_value=(.74,.79,.83,1);scat.inputs['Anisotropy'].default_value=.22;vol.node_tree.links.new(scat.outputs['Volume'],out.inputs['Volume'])
+Info: Saved as "Colosseum_AD160.blend"
+Info: Packed 13 file(s)
+Info: Saved as "Colosseum_AD160.blend"
+BUILD COMPLETE 177 objects
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,19 @@
+02-plan-section (736, 1024)
+03-detailed-plan (1125, 1600)
+07-interior (600, 450)
+05-facade-light (480, 768)
+08-reconstruction (1042, 585)
+06-velarium (800, 564)
+01-elevation-section (1432, 789)
+11-colored-plan (534, 873)
+13-seating (880, 660)
+04-facade (1024, 724)
+10-seating-plan (680, 898)
+12-arena (880, 660)
+14-velarium-drawing (989, 683)
+09-interior-section (1000, 692)
+TEXTURE marble_01
+TEXTURE cobblestone_floor_08
+TEXTURE white_sandstone_blocks_02
+TEXTURE clay_roof_tiles_02
+TEXTURE sand_01

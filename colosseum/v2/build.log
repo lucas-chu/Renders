@@ -1,0 +1,40 @@
+00:01.861  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/output/Colosseum_AD160.blend"
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/scripts/cinematic_revision.py:19: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*c,1);m.use_nodes=True;bs=m.node_tree.nodes.get('Principled BSDF');bs.inputs['Base Color'].default_value=(*c,1);bs.inputs['Roughness'].default_value=rough;bs.inputs['Metallic'].default_value=metal;G.MATS[name]=m;return m
+CITY 3718
+14:43:17 | INFO: Data are loaded, start creating Blender stuff
+14:43:17 | INFO: Blender create Mesh node Pedestal_n3d
+14:43:17 | INFO: Draco Decoder: Decode primitive Pedestal_n3d
+14:43:18 | INFO: Draco Decoder: Decode primitive Pedestal_n3d
+14:43:18 | INFO: glTF import finished in 0.47s
+/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/scripts/cinematic_revision.py:19: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*c,1);m.use_nodes=True;bs=m.node_tree.nodes.get('Principled BSDF');bs.inputs['Base Color'].default_value=(*c,1);bs.inputs['Roughness'].default_value=rough;bs.inputs['Metallic'].default_value=metal;G.MATS[name]=m;return m
+MESH 18 | Landscape — continuous rolling terrain Earth 48841 48400
+MESH 18b | Landscape — local contours Earth 25921 25600
+MESH 21 | City — irregular neighborhoods Faded rose plaster 11256 8442
+MESH 21 | City — irregular neighborhoods Roof variation 0 555474 369498
+MESH 21 | City — irregular neighborhoods Roof variation 1 555488 369504
+MESH 21 | City — irregular neighborhoods Warm lime plaster 11208 8406
+MESH 21 | City — irregular neighborhoods ShadowStone 4472 3354
+MESH 21 | City — irregular neighborhoods Terracotta 302890 201554
+MESH 21 | City — irregular neighborhoods Window 225504 169128
+MESH 21 | City — irregular neighborhoods Trim 183104 141708
+MESH 21 | City — irregular neighborhoods Timber 16664 12498
+MESH 21 | City — irregular neighborhoods Pale limestone plaster 21448 16086
+MESH 21 | City — irregular neighborhoods Roof variation 2 564282 375354
+MESH 21 | City — irregular neighborhoods Roof variation 3 549104 365256
+MESH 12 | Public life — gathered groups and circulation Indigo 1728 1440
+MESH 12 | Public life — gathered groups and circulation Skin 99796 73620
+MESH 12 | Public life — gathered groups and circulation Hair 24540 20450
+MESH 12 | Public life — gathered groups and circulation Linen 7104 5920
+MESH 12 | Public life — gathered groups and circulation Rust 1104 920
+MESH 12 | Public life — gathered groups and circulation Toga 7008 5840
+MESH 12 | Public life — gathered groups and circulation Umber 2688 2240
+Info: No new files have been packed
+Info: Saved as "Colosseum_AD160.blend"
+REVISION SAVED
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+DracoDecoder | Decoded 2581 vertices, 13083 indices
+DracoDecoder | Decoded 56554 vertices, 286917 indices
+
+Blender quit

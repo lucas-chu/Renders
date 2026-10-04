@@ -1,0 +1,12 @@
+00:00.433  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/outputs/Chateau_Frontenac.blend"
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/build_beauty.py:58: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes:continue
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/build_beauty.py:64: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w=bpy.data.worlds.new('Clouds | Poly Haven Kloofendal');w.use_nodes=True;n=w.node_tree.nodes;l=w.node_tree.links;n.clear();out=n.new('ShaderNodeOutputWorld');bg=n.new('ShaderNodeBackground');env=n.new('ShaderNodeTexEnvironment');env.image=bpy.data.images.load(WORK+'/references/cloud_sky.hdr');env.image.pack();tc=n.new('ShaderNodeTexCoord');mp=n.new('ShaderNodeMapping');mp.inputs['Rotation'].default_value[2]=math.radians(105);l.new(tc.outputs['Generated'],mp.inputs[0]);l.new(mp.outputs[0],env.inputs[0]);l.new(env.outputs[0],bg.inputs[0]);bg.inputs[1].default_value=.48;l.new(bg.outputs[0],out.inputs[0]);scene.world=w
+/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/build_beauty.py:14: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(n);m.diffuse_color=(*col,1);m.use_nodes=True
+Info: Saved as "Chateau_Frontenac_Beauty.blend"
+BEAUTY BUILD COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

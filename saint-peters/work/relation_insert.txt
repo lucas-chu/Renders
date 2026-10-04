@@ -1,0 +1,20 @@
+# Multipolygon palaces, including their open internal courtyards.
+group='Vatican | mapped palace courtyards'
+for rel in json.load(open(ROOT+'/work/references/relations_mesh.json')):
+ tags=rel['tags'];rng=random.Random(rel['id']);ma=plasters[rng.randrange(len(plasters))]
+ try:hh=float(tags.get('height',str(float(tags.get('building:levels','6'))*3.5)))
+ except:hh=24
+ if rel['id']==49690:hh=34
+ hh=max(8,min(42,hh))
+ for tri in rel['triangles']:mesh([(x,y,hh) for x,y in tri],[(0,1,2)],roof)
+ for loop in rel['loops']:
+  for k in range(len(loop)-1):
+   ax,ay=loop[k];bx,by=loop[k+1];dx=bx-ax;dy=by-ay;length=sqrt(dx*dx+dy*dy)
+   if length<.05:continue
+   mesh([(ax,ay,0),(bx,by,0),(bx,by,hh),(ax,ay,hh)],[(0,1,2,3)],ma)
+   ang=math.atan2(dy,dx);box(((ax+bx)/2,(ay+by)/2,hh),(length,.6,.5),trim,ang)
+   if length<3:continue
+   for zz in range(4,int(hh)-1,4):
+    for j in range(max(1,int(length/4.1))):
+     t=(j+.5)/max(1,int(length/4.1));xx=ax+dx*t;yy=ay+dy*t
+     box((xx,yy,zz),(1.4,.26,2.2),dark,ang);box((xx,yy,zz-1.2),(1.8,.45,.18),trim,ang)

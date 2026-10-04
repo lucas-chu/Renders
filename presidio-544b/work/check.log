@@ -1,0 +1,14 @@
+00:06.329  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B.blend"
+00:38.211  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/final_0300.png'
+CHECK_FRAME 300 28.89
+00:49.402  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/final_0301.png'
+CHECK_FRAME 301 11.15
+01:02.214  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/final_0001.png'
+CHECK_FRAME 1 12.86
+01:14.683  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/final_0450.png'
+CHECK_FRAME 450 12.45
+01:28.319  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/final_0720.png'
+CHECK_FRAME 720 13.64
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

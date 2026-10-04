@@ -1,0 +1,11 @@
+00:00.563  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+BAKING_DAYLIGHT
+BAKED 13.24
+00:40.165  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_final_0300.jpg'
+00:58.494  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_final_0301.jpg'
+01:10.294  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_final_0302.jpg'
+Info: Saved as "Presidio_544B_Improved.blend"
+THREE_FRAMES 53.26
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

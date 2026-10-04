@@ -1,0 +1,32 @@
+[
+  {
+    "scene": "Exterior | Ch\u00e2teau and Dufferin",
+    "start": 1,
+    "end": 192,
+    "camera": "01 | Terrace intimacy"
+  },
+  {
+    "scene": "Exterior | Ch\u00e2teau and Dufferin",
+    "start": 193,
+    "end": 360,
+    "camera": "02 | Copper and stone"
+  },
+  {
+    "scene": "Interior | Bar 1608",
+    "start": 361,
+    "end": 552,
+    "camera": "03 | Enter Bar 1608"
+  },
+  {
+    "scene": "Interior | Bar 1608",
+    "start": 553,
+    "end": 648,
+    "camera": "04 | Onyx, crystal and warm light"
+  },
+  {
+    "scene": "Exterior | Ch\u00e2teau and Dufferin",
+    "start": 649,
+    "end": 720,
+    "camera": "05 | Ch\u00e2teau closing portrait"
+  }
+]

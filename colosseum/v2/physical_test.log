@@ -1,0 +1,13 @@
+00:01.619  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/output/Colosseum_AD160.blend"
+00:53.025  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/.pending_physical_0001.png'
+FRAME_DONE {"frame": 1, "seconds": 50.16, "engine": "CYCLES", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/physical_0001.png"}
+01:38.259  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/.pending_physical_0002.png'
+FRAME_DONE {"frame": 2, "seconds": 45.23, "engine": "CYCLES", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/physical_0002.png"}
+02:32.274  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/.pending_physical_0350.png'
+FRAME_DONE {"frame": 350, "seconds": 54.01, "engine": "CYCLES", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/physical_0350.png"}
+03:33.207  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/.pending_physical_0620.png'
+FRAME_DONE {"frame": 620, "seconds": 60.95, "engine": "CYCLES", "samples": 24, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/v2/previews/physical_0620.png"}
+RENDER_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

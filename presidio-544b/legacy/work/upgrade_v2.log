@@ -1,0 +1,22 @@
+00:09.122  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/outputs/Presidio_544B.blend"
+PACKED SCENE OPEN
+MATERIALS AND GROUND CONTACT FIXED
+WOODLAND ADDED 347
+FINAL LIGHTING
+/private/tmp/presidio_upgrade.py:75: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  vol=bpy.data.materials.new('Thin marine air');vol.use_nodes=True;nn=vol.node_tree.nodes;ll=vol.node_tree.links;nn.clear();vo=nn.new('ShaderNodeOutputMaterial');vs=nn.new('ShaderNodeVolumeScatter');vs.inputs['Color'].default_value=(.70,.79,.90,1);vs.inputs['Density'].default_value=.00055;vs.inputs['Anisotropy'].default_value=.2;ll.new(vs.outputs[0],vo.inputs['Volume'])
+Info: Saved as "Presidio_544B.blend"
+REVISED SCENE SAVED
+04:25.914  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/refined_0300.png'
+REFINED_FRAME 300 217.55
+05:21.422  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/refined_0301.png'
+REFINED_FRAME 301 55.23
+06:24.483  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/refined_0001.png'
+REFINED_FRAME 1 63.26
+07:04.011  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/refined_0450.png'
+REFINED_FRAME 450 39.06
+07:55.969  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/work/refined_0720.png'
+REFINED_FRAME 720 52.07
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

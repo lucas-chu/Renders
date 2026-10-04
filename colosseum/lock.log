@@ -1,0 +1,13 @@
+00:01.548  blend            | Read blend: "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/output/Colosseum_AD160.blend"
+Info: Saved as "Colosseum_AD160.blend"
+PICTURE LOCK SAVED
+00:31.416  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/.pending_locked_0001.png'
+FRAME_DONE {"frame": 1, "seconds": 24.57, "engine": "BLENDER_EEVEE", "samples": 32, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/locked_0001.png"}
+00:39.241  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/.pending_locked_0350.png'
+FRAME_DONE {"frame": 350, "seconds": 7.78, "engine": "BLENDER_EEVEE", "samples": 32, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/locked_0350.png"}
+00:45.583  render           | Saved: '/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/.pending_locked_0650.png'
+FRAME_DONE {"frame": 650, "seconds": 6.33, "engine": "BLENDER_EEVEE", "samples": 32, "file": "/Users/lucaschu/Documents/ChatGPT/Renders/colosseum/previews/locked_0650.png"}
+RENDER_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

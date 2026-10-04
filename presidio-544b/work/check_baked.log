@@ -1,0 +1,8 @@
+00:02.287  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+00:21.026  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/baked_0300.jpg'
+00:32.107  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/baked_0301.jpg'
+00:41.407  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/baked_0302.jpg'
+BAKED_SEQUENCE 35.70370292663574
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,15 @@
+00:00.401  blend            | Read blend: "/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/outputs/Chateau_Frontenac_Beauty.blend"
+DEVICES [('Apple M4 Pro', 'CPU', False), ('Apple M4 Pro (GPU - 20 cores)', 'METAL', True)]
+00:09.517  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/preview_096.png'
+RENDERED 96 8.642302989959717
+00:20.739  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/preview_275.png'
+RENDERED 275 11.213658094406128
+00:32.835  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/preview_445.png'
+RENDERED 445 11.862977027893066
+00:44.090  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/preview_602.png'
+RENDERED 602 11.255796909332275
+00:59.179  render           | Saved: '/Users/lucaschu/Documents/Codex/2026-09-04/https-maps-app-goo-gl-6kaddkvqd8j54t9fa/work/beauty/preview_680.png'
+RENDERED 680 14.843228816986084
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

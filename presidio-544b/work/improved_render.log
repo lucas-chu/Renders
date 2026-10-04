@@ -1,0 +1,1500 @@
+00:02.012  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:01.711  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:02.264  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:03.067  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:02.081  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:01.880  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+  File "/Users/lucaschu/.codex/artifacts/presidio-544b/work/render_improved.py", line 8
+    s.frame_start=int(os.environ.get('START_FRAME','1'));s.frame_end=720;s.render.filepath=str(R/'work/frames'/'####');if s.frame_start==1:
+                                                                                                                       ^^
+SyntaxError: invalid syntax
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+00:01.806  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+00:37.434  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0001.jpg'
+Info: Saved as "Presidio_544B_Improved.blend"
+FRAME_DONE 1 25.2
+00:52.326  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0002.jpg'
+FRAME_DONE 2 14.89
+01:05.551  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0003.jpg'
+FRAME_DONE 3 13.23
+01:15.874  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0004.jpg'
+FRAME_DONE 4 10.32
+01:28.501  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0005.jpg'
+FRAME_DONE 5 12.63
+01:38.345  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0006.jpg'
+FRAME_DONE 6 9.84
+01:48.298  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0007.jpg'
+FRAME_DONE 7 9.95
+02:01.646  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0008.jpg'
+FRAME_DONE 8 13.35
+02:14.917  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0009.jpg'
+FRAME_DONE 9 13.27
+02:28.279  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0010.jpg'
+FRAME_DONE 10 13.36
+02:41.910  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0011.jpg'
+FRAME_DONE 11 13.63
+02:54.590  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0012.jpg'
+FRAME_DONE 12 12.68
+03:01.504  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0013.jpg'
+FRAME_DONE 13 6.91
+03:07.238  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0014.jpg'
+FRAME_DONE 14 5.73
+03:13.093  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0015.jpg'
+FRAME_DONE 15 5.85
+03:18.838  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0016.jpg'
+FRAME_DONE 16 5.75
+03:24.801  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0017.jpg'
+FRAME_DONE 17 5.96
+03:30.550  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0018.jpg'
+FRAME_DONE 18 5.75
+03:36.494  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0019.jpg'
+FRAME_DONE 19 5.94
+03:42.716  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0020.jpg'
+FRAME_DONE 20 6.22
+03:49.033  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0021.jpg'
+FRAME_DONE 21 6.32
+03:55.381  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0022.jpg'
+FRAME_DONE 22 6.35
+04:01.271  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0023.jpg'
+FRAME_DONE 23 5.89
+04:07.223  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0024.jpg'
+FRAME_DONE 24 5.95
+04:13.088  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0025.jpg'
+FRAME_DONE 25 5.86
+04:18.706  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0026.jpg'
+FRAME_DONE 26 5.62
+04:24.444  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0027.jpg'
+FRAME_DONE 27 5.74
+04:30.248  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0028.jpg'
+FRAME_DONE 28 5.8
+04:35.918  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0029.jpg'
+FRAME_DONE 29 5.67
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
+
+00:00.657  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+00:19.610  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0030.jpg'
+FRAME_DONE 30 17.8
+00:28.784  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0031.jpg'
+FRAME_DONE 31 9.17
+00:34.623  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0032.jpg'
+FRAME_DONE 32 5.84
+00:40.379  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0033.jpg'
+FRAME_DONE 33 5.76
+00:45.979  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0034.jpg'
+FRAME_DONE 34 5.6
+00:51.934  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0035.jpg'
+FRAME_DONE 35 5.95
+00:57.527  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0036.jpg'
+FRAME_DONE 36 5.59
+01:03.155  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0037.jpg'
+FRAME_DONE 37 5.63
+01:08.751  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0038.jpg'
+FRAME_DONE 38 5.6
+01:14.279  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0039.jpg'
+FRAME_DONE 39 5.53
+01:19.804  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0040.jpg'
+FRAME_DONE 40 5.52
+01:25.292  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0041.jpg'
+FRAME_DONE 41 5.49
+01:30.780  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0042.jpg'
+FRAME_DONE 42 5.49
+01:36.272  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0043.jpg'
+FRAME_DONE 43 5.49
+01:41.724  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0044.jpg'
+FRAME_DONE 44 5.45
+01:47.329  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0045.jpg'
+FRAME_DONE 45 5.6
+01:57.126  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0046.jpg'
+FRAME_DONE 46 9.8
+02:17.664  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0047.jpg'
+FRAME_DONE 47 20.54
+02:39.267  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0048.jpg'
+FRAME_DONE 48 21.6
+02:54.108  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0049.jpg'
+FRAME_DONE 49 14.84
+03:06.361  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0050.jpg'
+FRAME_DONE 50 12.25
+03:17.849  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0051.jpg'
+FRAME_DONE 51 11.49
+03:44.279  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0052.jpg'
+FRAME_DONE 52 26.43
+03:54.935  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0053.jpg'
+FRAME_DONE 53 10.66
+04:03.812  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0054.jpg'
+FRAME_DONE 54 8.88
+04:30.948  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0055.jpg'
+FRAME_DONE 55 27.14
+04:41.844  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0056.jpg'
+FRAME_DONE 56 10.9
+04:54.143  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0057.jpg'
+FRAME_DONE 57 12.3
+05:26.804  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0058.jpg'
+FRAME_DONE 58 32.66
+05:37.931  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0059.jpg'
+FRAME_DONE 59 11.13
+05:48.047  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0060.jpg'
+FRAME_DONE 60 10.12
+06:17.591  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0061.jpg'
+FRAME_DONE 61 29.54
+06:29.168  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0062.jpg'
+FRAME_DONE 62 11.58
+06:38.881  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0063.jpg'
+FRAME_DONE 63 9.71
+06:48.588  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0064.jpg'
+FRAME_DONE 64 9.71
+06:59.689  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0065.jpg'
+FRAME_DONE 65 11.1
+07:06.270  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0066.jpg'
+FRAME_DONE 66 6.58
+07:11.957  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0067.jpg'
+FRAME_DONE 67 5.69
+07:17.637  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0068.jpg'
+FRAME_DONE 68 5.68
+07:23.339  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0069.jpg'
+FRAME_DONE 69 5.7
+07:28.969  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0070.jpg'
+FRAME_DONE 70 5.63
+07:34.496  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0071.jpg'
+FRAME_DONE 71 5.53
+07:40.055  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0072.jpg'
+FRAME_DONE 72 5.56
+07:45.592  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0073.jpg'
+FRAME_DONE 73 5.54
+07:51.367  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0074.jpg'
+FRAME_DONE 74 5.77
+07:56.979  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0075.jpg'
+FRAME_DONE 75 5.61
+08:02.407  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0076.jpg'
+FRAME_DONE 76 5.43
+08:07.813  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0077.jpg'
+FRAME_DONE 77 5.41
+08:13.310  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0078.jpg'
+FRAME_DONE 78 5.5
+08:18.747  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0079.jpg'
+FRAME_DONE 79 5.44
+08:24.243  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0080.jpg'
+FRAME_DONE 80 5.5
+08:29.700  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0081.jpg'
+FRAME_DONE 81 5.46
+08:35.138  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0082.jpg'
+FRAME_DONE 82 5.44
+08:40.516  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0083.jpg'
+FRAME_DONE 83 5.38
+08:45.909  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0084.jpg'
+FRAME_DONE 84 5.39
+08:51.595  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0085.jpg'
+FRAME_DONE 85 5.69
+08:57.010  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0086.jpg'
+FRAME_DONE 86 5.41
+09:02.426  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0087.jpg'
+FRAME_DONE 87 5.42
+09:07.876  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0088.jpg'
+FRAME_DONE 88 5.45
+09:13.313  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0089.jpg'
+FRAME_DONE 89 5.44
+09:18.774  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0090.jpg'
+FRAME_DONE 90 5.46
+09:24.205  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0091.jpg'
+FRAME_DONE 91 5.43
+09:29.662  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0092.jpg'
+FRAME_DONE 92 5.46
+09:35.055  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0093.jpg'
+FRAME_DONE 93 5.39
+09:40.569  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0094.jpg'
+FRAME_DONE 94 5.51
+09:46.079  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0095.jpg'
+FRAME_DONE 95 5.51
+09:51.752  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0096.jpg'
+FRAME_DONE 96 5.67
+09:57.109  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0097.jpg'
+FRAME_DONE 97 5.36
+10:02.476  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0098.jpg'
+FRAME_DONE 98 5.37
+10:07.836  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0099.jpg'
+FRAME_DONE 99 5.36
+10:13.136  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0100.jpg'
+FRAME_DONE 100 5.3
+10:18.519  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0101.jpg'
+FRAME_DONE 101 5.38
+10:23.922  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0102.jpg'
+FRAME_DONE 102 5.4
+10:29.278  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0103.jpg'
+FRAME_DONE 103 5.36
+10:34.610  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0104.jpg'
+FRAME_DONE 104 5.33
+10:39.870  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0105.jpg'
+FRAME_DONE 105 5.26
+10:45.133  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0106.jpg'
+FRAME_DONE 106 5.26
+10:50.577  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0107.jpg'
+FRAME_DONE 107 5.44
+10:55.876  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0108.jpg'
+FRAME_DONE 108 5.3
+11:01.155  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0109.jpg'
+FRAME_DONE 109 5.28
+11:06.493  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0110.jpg'
+FRAME_DONE 110 5.34
+11:11.766  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0111.jpg'
+FRAME_DONE 111 5.27
+11:17.140  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0112.jpg'
+FRAME_DONE 112 5.37
+11:22.428  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0113.jpg'
+FRAME_DONE 113 5.29
+11:27.764  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0114.jpg'
+FRAME_DONE 114 5.34
+11:33.063  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0115.jpg'
+FRAME_DONE 115 5.3
+11:38.341  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0116.jpg'
+FRAME_DONE 116 5.28
+11:43.646  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0117.jpg'
+FRAME_DONE 117 5.3
+11:49.197  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0118.jpg'
+FRAME_DONE 118 5.55
+11:54.632  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0119.jpg'
+FRAME_DONE 119 5.43
+12:00.027  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0120.jpg'
+FRAME_DONE 120 5.39
+12:05.359  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0121.jpg'
+FRAME_DONE 121 5.33
+12:10.670  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0122.jpg'
+FRAME_DONE 122 5.31
+12:16.230  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0123.jpg'
+FRAME_DONE 123 5.56
+12:21.629  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0124.jpg'
+FRAME_DONE 124 5.4
+12:26.989  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0125.jpg'
+FRAME_DONE 125 5.36
+12:33.598  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0126.jpg'
+FRAME_DONE 126 6.61
+12:39.078  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0127.jpg'
+FRAME_DONE 127 5.48
+12:44.537  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0128.jpg'
+FRAME_DONE 128 5.46
+12:50.090  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0129.jpg'
+FRAME_DONE 129 5.55
+12:55.571  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0130.jpg'
+FRAME_DONE 130 5.48
+13:00.891  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0131.jpg'
+FRAME_DONE 131 5.32
+13:06.150  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0132.jpg'
+FRAME_DONE 132 5.26
+13:11.424  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0133.jpg'
+FRAME_DONE 133 5.27
+13:16.743  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0134.jpg'
+FRAME_DONE 134 5.32
+13:22.036  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0135.jpg'
+FRAME_DONE 135 5.29
+13:27.374  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0136.jpg'
+FRAME_DONE 136 5.34
+13:32.756  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0137.jpg'
+FRAME_DONE 137 5.38
+13:38.122  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0138.jpg'
+FRAME_DONE 138 5.37
+13:54.186  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0139.jpg'
+FRAME_DONE 139 16.06
+14:03.301  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0140.jpg'
+FRAME_DONE 140 9.11
+14:08.682  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0141.jpg'
+FRAME_DONE 141 5.38
+14:14.084  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0142.jpg'
+FRAME_DONE 142 5.4
+14:27.730  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0143.jpg'
+FRAME_DONE 143 13.65
+14:39.140  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0144.jpg'
+FRAME_DONE 144 11.41
+14:44.412  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0145.jpg'
+FRAME_DONE 145 5.27
+14:49.869  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0146.jpg'
+FRAME_DONE 146 5.46
+15:09.497  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0147.jpg'
+FRAME_DONE 147 19.63
+15:14.776  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0148.jpg'
+FRAME_DONE 148 5.28
+15:19.990  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0149.jpg'
+FRAME_DONE 149 5.21
+15:25.203  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0150.jpg'
+FRAME_DONE 150 5.21
+15:41.795  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0151.jpg'
+FRAME_DONE 151 16.59
+15:50.312  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0152.jpg'
+FRAME_DONE 152 8.52
+15:55.610  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0153.jpg'
+FRAME_DONE 153 5.3
+16:00.997  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0154.jpg'
+FRAME_DONE 154 5.39
+16:15.809  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0155.jpg'
+FRAME_DONE 155 14.81
+16:25.675  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0156.jpg'
+FRAME_DONE 156 9.87
+16:30.914  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0157.jpg'
+FRAME_DONE 157 5.24
+16:36.119  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0158.jpg'
+FRAME_DONE 158 5.2
+16:51.878  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0159.jpg'
+FRAME_DONE 159 15.76
+17:01.982  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0160.jpg'
+FRAME_DONE 160 10.12
+17:08.014  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0161.jpg'
+FRAME_DONE 161 6.02
+17:13.286  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0162.jpg'
+FRAME_DONE 162 5.27
+17:32.802  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0163.jpg'
+FRAME_DONE 163 19.52
+17:38.067  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0164.jpg'
+FRAME_DONE 164 5.27
+17:43.313  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0165.jpg'
+FRAME_DONE 165 5.25
+17:49.252  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0166.jpg'
+FRAME_DONE 166 5.94
+18:08.291  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0167.jpg'
+FRAME_DONE 167 19.04
+18:13.530  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0168.jpg'
+FRAME_DONE 168 5.24
+18:18.797  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0169.jpg'
+FRAME_DONE 169 5.27
+18:28.712  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0170.jpg'
+FRAME_DONE 170 9.91
+18:43.722  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0171.jpg'
+FRAME_DONE 171 15.01
+18:49.182  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0172.jpg'
+FRAME_DONE 172 5.46
+18:54.468  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0173.jpg'
+FRAME_DONE 173 5.29
+18:59.547  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0174.jpg'
+FRAME_DONE 174 5.08
+19:04.588  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0175.jpg'
+FRAME_DONE 175 5.04
+19:09.665  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0176.jpg'
+FRAME_DONE 176 5.08
+19:14.795  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0177.jpg'
+FRAME_DONE 177 5.13
+19:26.899  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0178.jpg'
+FRAME_DONE 178 12.1
+19:36.395  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0179.jpg'
+FRAME_DONE 179 9.5
+19:41.780  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0180.jpg'
+FRAME_DONE 180 5.38
+19:49.993  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0181.jpg'
+FRAME_DONE 181 8.21
+20:10.557  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0182.jpg'
+FRAME_DONE 182 20.56
+20:22.106  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0183.jpg'
+FRAME_DONE 183 11.55
+20:33.009  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0184.jpg'
+FRAME_DONE 184 10.9
+20:44.449  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0185.jpg'
+FRAME_DONE 185 11.44
+20:57.789  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0186.jpg'
+FRAME_DONE 186 13.34
+21:09.296  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0187.jpg'
+FRAME_DONE 187 11.51
+21:21.973  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0188.jpg'
+FRAME_DONE 188 12.68
+21:33.944  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0189.jpg'
+FRAME_DONE 189 11.97
+21:47.961  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0190.jpg'
+FRAME_DONE 190 14.02
+22:02.298  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0191.jpg'
+FRAME_DONE 191 14.34
+22:11.530  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0192.jpg'
+FRAME_DONE 192 9.23
+22:19.841  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0193.jpg'
+FRAME_DONE 193 8.31
+22:33.347  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0194.jpg'
+FRAME_DONE 194 13.51
+22:50.678  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0195.jpg'
+FRAME_DONE 195 17.33
+22:58.365  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0196.jpg'
+FRAME_DONE 196 7.69
+23:07.107  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0197.jpg'
+FRAME_DONE 197 8.74
+23:19.694  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0198.jpg'
+FRAME_DONE 198 12.59
+23:32.887  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0199.jpg'
+FRAME_DONE 199 13.19
+23:38.581  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0200.jpg'
+FRAME_DONE 200 5.69
+23:43.995  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0201.jpg'
+FRAME_DONE 201 5.41
+23:53.512  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0202.jpg'
+FRAME_DONE 202 9.52
+24:22.433  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0203.jpg'
+FRAME_DONE 203 28.92
+24:31.772  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0204.jpg'
+FRAME_DONE 204 9.34
+24:43.786  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0205.jpg'
+FRAME_DONE 205 12.01
+25:10.398  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0206.jpg'
+FRAME_DONE 206 26.62
+25:21.155  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0207.jpg'
+FRAME_DONE 207 10.75
+25:43.533  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0208.jpg'
+FRAME_DONE 208 22.38
+26:00.630  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0209.jpg'
+FRAME_DONE 209 17.1
+26:11.609  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0210.jpg'
+FRAME_DONE 210 10.98
+26:33.095  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0211.jpg'
+FRAME_DONE 211 21.49
+26:49.149  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0212.jpg'
+FRAME_DONE 212 16.05
+27:00.369  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0213.jpg'
+FRAME_DONE 213 11.22
+27:26.730  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0214.jpg'
+FRAME_DONE 214 26.36
+27:37.784  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0215.jpg'
+FRAME_DONE 215 11.05
+27:50.468  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0216.jpg'
+FRAME_DONE 216 12.68
+28:14.926  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0217.jpg'
+FRAME_DONE 217 24.46
+28:23.394  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0218.jpg'
+FRAME_DONE 218 8.47
+28:28.719  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0219.jpg'
+FRAME_DONE 219 5.33
+28:47.987  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0220.jpg'
+FRAME_DONE 220 19.27
+29:03.582  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0221.jpg'
+FRAME_DONE 221 15.6
+29:13.423  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0222.jpg'
+FRAME_DONE 222 9.84
+29:41.990  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0223.jpg'
+FRAME_DONE 223 28.57
+29:53.349  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0224.jpg'
+FRAME_DONE 224 11.36
+30:15.746  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0225.jpg'
+FRAME_DONE 225 22.4
+30:31.479  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0226.jpg'
+FRAME_DONE 226 15.73
+30:42.833  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0227.jpg'
+FRAME_DONE 227 11.35
+31:08.487  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0228.jpg'
+FRAME_DONE 228 25.66
+31:16.790  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0229.jpg'
+FRAME_DONE 229 8.3
+31:25.550  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0230.jpg'
+FRAME_DONE 230 8.76
+31:42.291  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0231.jpg'
+FRAME_DONE 231 16.74
+32:02.595  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0232.jpg'
+FRAME_DONE 232 20.3
+32:11.795  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0233.jpg'
+FRAME_DONE 233 9.2
+32:25.372  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0234.jpg'
+FRAME_DONE 234 13.58
+32:48.747  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0235.jpg'
+FRAME_DONE 235 23.38
+33:00.180  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0236.jpg'
+FRAME_DONE 236 11.43
+33:15.808  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0237.jpg'
+FRAME_DONE 237 15.63
+33:33.922  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0238.jpg'
+FRAME_DONE 238 18.11
+33:43.915  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0239.jpg'
+FRAME_DONE 239 9.99
+33:52.001  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0240.jpg'
+FRAME_DONE 240 8.09
+34:17.877  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0241.jpg'
+FRAME_DONE 241 25.88
+34:26.704  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0242.jpg'
+FRAME_DONE 242 8.83
+34:35.456  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0243.jpg'
+FRAME_DONE 243 8.75
+34:49.746  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0244.jpg'
+FRAME_DONE 244 14.29
+35:08.696  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0245.jpg'
+FRAME_DONE 245 18.95
+35:17.842  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0246.jpg'
+FRAME_DONE 246 9.15
+35:25.103  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0247.jpg'
+FRAME_DONE 247 7.26
+35:33.144  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0248.jpg'
+FRAME_DONE 248 8.04
+35:58.641  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0249.jpg'
+FRAME_DONE 249 25.5
+36:07.433  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0250.jpg'
+FRAME_DONE 250 8.79
+36:16.899  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0251.jpg'
+FRAME_DONE 251 9.47
+36:31.516  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0252.jpg'
+FRAME_DONE 252 14.62
+36:52.010  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0253.jpg'
+FRAME_DONE 253 20.49
+37:01.354  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0254.jpg'
+FRAME_DONE 254 9.34
+37:13.323  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0255.jpg'
+FRAME_DONE 255 11.97
+37:37.191  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0256.jpg'
+FRAME_DONE 256 23.87
+37:45.934  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0257.jpg'
+FRAME_DONE 257 8.74
+37:55.169  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0258.jpg'
+FRAME_DONE 258 9.23
+38:17.622  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0259.jpg'
+FRAME_DONE 259 22.46
+38:27.560  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0260.jpg'
+FRAME_DONE 260 9.93
+38:37.883  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0261.jpg'
+FRAME_DONE 261 10.32
+39:05.111  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0262.jpg'
+FRAME_DONE 262 27.23
+39:13.779  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0263.jpg'
+FRAME_DONE 263 8.67
+39:23.227  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0264.jpg'
+FRAME_DONE 264 9.45
+39:45.281  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0265.jpg'
+FRAME_DONE 265 22.05
+40:00.064  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0266.jpg'
+FRAME_DONE 266 14.78
+40:08.543  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0267.jpg'
+FRAME_DONE 267 8.48
+40:20.201  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0268.jpg'
+FRAME_DONE 268 11.66
+40:43.823  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0269.jpg'
+FRAME_DONE 269 23.62
+40:53.840  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0270.jpg'
+FRAME_DONE 270 10.02
+41:04.059  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0271.jpg'
+FRAME_DONE 271 10.22
+00:00.807  blend            | Read blend: "/Users/lucaschu/.codex/artifacts/presidio-544b/outputs/Presidio_544B_Improved.blend"
+00:21.488  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0272.jpg'
+FRAME_DONE 272 19.13
+00:31.328  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0273.jpg'
+FRAME_DONE 273 9.84
+00:38.973  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0274.jpg'
+FRAME_DONE 274 7.64
+00:46.131  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0275.jpg'
+FRAME_DONE 275 7.16
+00:53.342  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0276.jpg'
+FRAME_DONE 276 7.21
+01:00.447  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0277.jpg'
+FRAME_DONE 277 7.11
+01:07.294  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0278.jpg'
+FRAME_DONE 278 6.85
+01:13.858  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0279.jpg'
+FRAME_DONE 279 6.56
+01:20.408  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0280.jpg'
+FRAME_DONE 280 6.55
+01:27.042  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0281.jpg'
+FRAME_DONE 281 6.63
+01:33.593  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0282.jpg'
+FRAME_DONE 282 6.55
+01:40.306  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0283.jpg'
+FRAME_DONE 283 6.71
+01:46.995  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0284.jpg'
+FRAME_DONE 284 6.69
+01:53.782  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0285.jpg'
+FRAME_DONE 285 6.79
+02:00.465  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0286.jpg'
+FRAME_DONE 286 6.68
+02:07.087  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0287.jpg'
+FRAME_DONE 287 6.62
+02:13.607  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0288.jpg'
+FRAME_DONE 288 6.52
+02:20.195  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0289.jpg'
+FRAME_DONE 289 6.59
+02:26.742  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0290.jpg'
+FRAME_DONE 290 6.55
+02:33.392  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0291.jpg'
+FRAME_DONE 291 6.65
+02:39.806  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0292.jpg'
+FRAME_DONE 292 6.41
+02:46.191  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0293.jpg'
+FRAME_DONE 293 6.39
+02:52.816  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0294.jpg'
+FRAME_DONE 294 6.62
+02:59.533  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0295.jpg'
+FRAME_DONE 295 6.72
+03:05.940  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0296.jpg'
+FRAME_DONE 296 6.41
+03:12.249  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0297.jpg'
+FRAME_DONE 297 6.31
+03:18.579  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0298.jpg'
+FRAME_DONE 298 6.33
+03:24.880  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0299.jpg'
+FRAME_DONE 299 6.3
+03:31.085  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0300.jpg'
+FRAME_DONE 300 6.21
+03:37.295  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0301.jpg'
+FRAME_DONE 301 6.21
+03:43.533  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0302.jpg'
+FRAME_DONE 302 6.24
+03:49.828  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0303.jpg'
+FRAME_DONE 303 6.3
+03:56.260  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0304.jpg'
+FRAME_DONE 304 6.43
+04:02.458  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0305.jpg'
+FRAME_DONE 305 6.2
+04:08.556  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0306.jpg'
+FRAME_DONE 306 6.1
+04:14.658  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0307.jpg'
+FRAME_DONE 307 6.1
+04:20.737  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0308.jpg'
+FRAME_DONE 308 6.08
+04:26.910  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0309.jpg'
+FRAME_DONE 309 6.17
+04:32.946  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0310.jpg'
+FRAME_DONE 310 6.04
+04:38.894  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0311.jpg'
+FRAME_DONE 311 5.95
+04:45.018  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0312.jpg'
+FRAME_DONE 312 6.12
+04:51.076  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0313.jpg'
+FRAME_DONE 313 6.06
+04:57.289  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0314.jpg'
+FRAME_DONE 314 6.21
+05:03.253  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0315.jpg'
+FRAME_DONE 315 5.96
+05:09.152  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0316.jpg'
+FRAME_DONE 316 5.9
+05:15.023  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0317.jpg'
+FRAME_DONE 317 5.87
+05:20.927  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0318.jpg'
+FRAME_DONE 318 5.9
+05:26.938  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0319.jpg'
+FRAME_DONE 319 6.01
+05:32.970  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0320.jpg'
+FRAME_DONE 320 6.03
+05:38.886  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0321.jpg'
+FRAME_DONE 321 5.92
+05:44.897  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0322.jpg'
+FRAME_DONE 322 6.01
+05:51.038  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0323.jpg'
+FRAME_DONE 323 6.14
+05:57.076  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0324.jpg'
+FRAME_DONE 324 6.04
+06:03.046  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0325.jpg'
+FRAME_DONE 325 5.97
+06:08.986  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0326.jpg'
+FRAME_DONE 326 5.94
+06:15.412  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0327.jpg'
+FRAME_DONE 327 6.43
+06:21.190  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0328.jpg'
+FRAME_DONE 328 5.78
+06:27.901  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0329.jpg'
+FRAME_DONE 329 6.71
+06:34.770  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0330.jpg'
+FRAME_DONE 330 6.87
+06:41.304  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0331.jpg'
+FRAME_DONE 331 6.53
+06:47.916  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0332.jpg'
+FRAME_DONE 332 6.61
+06:54.472  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0333.jpg'
+FRAME_DONE 333 6.56
+07:00.973  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0334.jpg'
+FRAME_DONE 334 6.5
+07:07.339  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0335.jpg'
+FRAME_DONE 335 6.37
+07:15.879  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0336.jpg'
+FRAME_DONE 336 8.54
+07:22.744  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0337.jpg'
+FRAME_DONE 337 6.87
+07:29.212  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0338.jpg'
+FRAME_DONE 338 6.47
+07:35.588  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0339.jpg'
+FRAME_DONE 339 6.38
+07:42.009  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0340.jpg'
+FRAME_DONE 340 6.42
+07:48.754  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0341.jpg'
+FRAME_DONE 341 6.75
+07:55.397  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0342.jpg'
+FRAME_DONE 342 6.64
+08:02.009  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0343.jpg'
+FRAME_DONE 343 6.61
+08:08.487  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0344.jpg'
+FRAME_DONE 344 6.48
+08:14.977  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0345.jpg'
+FRAME_DONE 345 6.49
+08:21.433  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0346.jpg'
+FRAME_DONE 346 6.46
+08:27.822  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0347.jpg'
+FRAME_DONE 347 6.39
+08:34.279  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0348.jpg'
+FRAME_DONE 348 6.46
+08:40.710  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0349.jpg'
+FRAME_DONE 349 6.43
+08:47.214  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0350.jpg'
+FRAME_DONE 350 6.5
+08:53.927  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0351.jpg'
+FRAME_DONE 351 6.71
+09:00.788  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0352.jpg'
+FRAME_DONE 352 6.86
+09:07.430  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0353.jpg'
+FRAME_DONE 353 6.64
+09:14.112  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0354.jpg'
+FRAME_DONE 354 6.68
+09:20.745  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0355.jpg'
+FRAME_DONE 355 6.63
+09:27.314  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0356.jpg'
+FRAME_DONE 356 6.57
+09:33.751  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0357.jpg'
+FRAME_DONE 357 6.44
+09:40.225  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0358.jpg'
+FRAME_DONE 358 6.47
+09:47.744  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0359.jpg'
+FRAME_DONE 359 7.54
+10:00.871  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0360.jpg'
+FRAME_DONE 360 13.11
+10:07.588  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0361.jpg'
+FRAME_DONE 361 6.72
+10:20.530  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0362.jpg'
+FRAME_DONE 362 12.94
+10:26.864  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0363.jpg'
+FRAME_DONE 363 6.33
+10:33.065  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0364.jpg'
+FRAME_DONE 364 6.2
+10:39.155  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0365.jpg'
+FRAME_DONE 365 6.09
+10:45.405  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0366.jpg'
+FRAME_DONE 366 6.25
+10:51.387  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0367.jpg'
+FRAME_DONE 367 5.98
+10:57.074  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0368.jpg'
+FRAME_DONE 368 5.69
+11:03.434  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0369.jpg'
+FRAME_DONE 369 6.36
+11:09.235  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0370.jpg'
+FRAME_DONE 370 5.8
+11:15.060  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0371.jpg'
+FRAME_DONE 371 5.83
+11:22.340  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0372.jpg'
+FRAME_DONE 372 7.28
+11:28.328  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0373.jpg'
+FRAME_DONE 373 5.99
+11:34.329  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0374.jpg'
+FRAME_DONE 374 6.0
+11:40.001  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0375.jpg'
+FRAME_DONE 375 5.67
+11:45.678  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0376.jpg'
+FRAME_DONE 376 5.68
+11:51.203  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0377.jpg'
+FRAME_DONE 377 5.53
+11:56.777  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0378.jpg'
+FRAME_DONE 378 5.57
+12:02.466  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0379.jpg'
+FRAME_DONE 379 5.69
+12:08.023  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0380.jpg'
+FRAME_DONE 380 5.56
+12:13.632  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0381.jpg'
+FRAME_DONE 381 5.61
+12:31.410  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0382.jpg'
+FRAME_DONE 382 17.78
+12:43.089  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0383.jpg'
+FRAME_DONE 383 11.68
+12:48.778  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0384.jpg'
+FRAME_DONE 384 5.69
+12:54.504  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0385.jpg'
+FRAME_DONE 385 5.73
+12:59.862  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0386.jpg'
+FRAME_DONE 386 5.36
+13:19.691  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0387.jpg'
+FRAME_DONE 387 19.83
+13:28.588  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0388.jpg'
+FRAME_DONE 388 8.89
+13:32.540  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0389.jpg'
+FRAME_DONE 389 3.95
+13:36.523  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0390.jpg'
+FRAME_DONE 390 3.98
+13:40.497  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0391.jpg'
+FRAME_DONE 391 3.97
+13:44.432  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0392.jpg'
+FRAME_DONE 392 3.93
+13:48.583  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0393.jpg'
+FRAME_DONE 393 4.15
+13:52.708  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0394.jpg'
+FRAME_DONE 394 4.13
+13:56.757  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0395.jpg'
+FRAME_DONE 395 4.05
+14:00.794  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0396.jpg'
+FRAME_DONE 396 4.04
+14:04.852  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0397.jpg'
+FRAME_DONE 397 4.06
+14:09.260  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0398.jpg'
+FRAME_DONE 398 4.41
+14:13.355  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0399.jpg'
+FRAME_DONE 399 4.1
+14:17.325  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0400.jpg'
+FRAME_DONE 400 3.97
+14:21.424  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0401.jpg'
+FRAME_DONE 401 4.1
+14:25.452  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0402.jpg'
+FRAME_DONE 402 4.03
+14:29.322  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0403.jpg'
+FRAME_DONE 403 3.87
+14:33.139  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0404.jpg'
+FRAME_DONE 404 3.82
+14:36.931  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0405.jpg'
+FRAME_DONE 405 3.79
+14:41.249  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0406.jpg'
+FRAME_DONE 406 4.32
+14:45.073  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0407.jpg'
+FRAME_DONE 407 3.82
+14:49.038  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0408.jpg'
+FRAME_DONE 408 3.96
+14:52.803  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0409.jpg'
+FRAME_DONE 409 3.77
+14:56.526  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0410.jpg'
+FRAME_DONE 410 3.72
+15:00.182  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0411.jpg'
+FRAME_DONE 411 3.66
+15:03.867  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0412.jpg'
+FRAME_DONE 412 3.68
+15:07.789  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0413.jpg'
+FRAME_DONE 413 3.92
+15:11.691  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0414.jpg'
+FRAME_DONE 414 3.9
+15:16.078  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0415.jpg'
+FRAME_DONE 415 4.39
+15:20.111  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0416.jpg'
+FRAME_DONE 416 4.03
+15:23.790  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0417.jpg'
+FRAME_DONE 417 3.68
+15:29.377  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0418.jpg'
+FRAME_DONE 418 5.59
+15:55.222  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0419.jpg'
+FRAME_DONE 419 25.85
+16:00.552  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0420.jpg'
+FRAME_DONE 420 5.33
+16:05.737  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0421.jpg'
+FRAME_DONE 421 5.19
+16:11.180  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0422.jpg'
+FRAME_DONE 422 5.44
+16:16.433  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0423.jpg'
+FRAME_DONE 423 5.25
+16:37.951  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0424.jpg'
+FRAME_DONE 424 21.52
+16:48.187  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0425.jpg'
+FRAME_DONE 425 10.24
+16:53.591  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0426.jpg'
+FRAME_DONE 426 5.4
+16:58.769  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0427.jpg'
+FRAME_DONE 427 5.18
+17:03.869  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0428.jpg'
+FRAME_DONE 428 5.1
+17:29.256  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0429.jpg'
+FRAME_DONE 429 25.39
+17:34.888  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0430.jpg'
+FRAME_DONE 430 5.63
+17:40.150  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0431.jpg'
+FRAME_DONE 431 5.26
+17:45.527  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0432.jpg'
+FRAME_DONE 432 5.38
+17:50.900  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0433.jpg'
+FRAME_DONE 433 5.37
+18:16.220  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0434.jpg'
+FRAME_DONE 434 25.32
+18:22.587  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0435.jpg'
+FRAME_DONE 435 6.37
+18:27.890  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0436.jpg'
+FRAME_DONE 436 5.3
+18:33.230  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0437.jpg'
+FRAME_DONE 437 5.34
+18:38.515  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0438.jpg'
+FRAME_DONE 438 5.28
+18:43.731  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0439.jpg'
+FRAME_DONE 439 5.22
+19:08.171  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0440.jpg'
+FRAME_DONE 440 24.44
+19:13.891  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0441.jpg'
+FRAME_DONE 441 5.72
+19:19.207  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0442.jpg'
+FRAME_DONE 442 5.32
+19:24.482  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0443.jpg'
+FRAME_DONE 443 5.28
+19:29.816  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0444.jpg'
+FRAME_DONE 444 5.33
+19:48.705  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0445.jpg'
+FRAME_DONE 445 18.89
+19:59.473  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0446.jpg'
+FRAME_DONE 446 10.77
+20:04.811  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0447.jpg'
+FRAME_DONE 447 5.34
+20:10.108  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0448.jpg'
+FRAME_DONE 448 5.3
+20:15.416  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0449.jpg'
+FRAME_DONE 449 5.31
+20:37.540  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0450.jpg'
+FRAME_DONE 450 22.12
+20:43.181  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0451.jpg'
+FRAME_DONE 451 5.64
+20:46.917  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0452.jpg'
+FRAME_DONE 452 3.74
+20:50.911  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0453.jpg'
+FRAME_DONE 453 4.0
+20:54.697  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0454.jpg'
+FRAME_DONE 454 3.79
+21:06.314  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0455.jpg'
+FRAME_DONE 455 11.62
+21:23.490  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0456.jpg'
+FRAME_DONE 456 17.18
+21:27.270  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0457.jpg'
+FRAME_DONE 457 3.78
+21:31.092  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0458.jpg'
+FRAME_DONE 458 3.82
+21:35.189  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0459.jpg'
+FRAME_DONE 459 4.1
+21:39.251  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0460.jpg'
+FRAME_DONE 460 4.06
+21:46.247  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0461.jpg'
+FRAME_DONE 461 7.0
+21:58.623  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0462.jpg'
+FRAME_DONE 462 12.38
+22:02.990  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0463.jpg'
+FRAME_DONE 463 4.37
+22:07.348  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0464.jpg'
+FRAME_DONE 464 4.36
+22:12.407  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0465.jpg'
+FRAME_DONE 465 5.06
+22:26.312  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0466.jpg'
+FRAME_DONE 466 13.9
+22:33.072  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0467.jpg'
+FRAME_DONE 467 6.76
+22:45.020  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0468.jpg'
+FRAME_DONE 468 11.95
+22:49.881  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0469.jpg'
+FRAME_DONE 469 4.86
+22:55.014  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0470.jpg'
+FRAME_DONE 470 5.13
+23:06.513  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0471.jpg'
+FRAME_DONE 471 11.5
+23:12.243  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0472.jpg'
+FRAME_DONE 472 5.73
+23:17.394  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0473.jpg'
+FRAME_DONE 473 5.15
+23:22.845  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0474.jpg'
+FRAME_DONE 474 5.45
+23:27.617  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0475.jpg'
+FRAME_DONE 475 4.77
+23:33.243  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0476.jpg'
+FRAME_DONE 476 5.63
+23:38.537  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0477.jpg'
+FRAME_DONE 477 5.29
+23:44.378  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0478.jpg'
+FRAME_DONE 478 5.84
+23:50.404  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0479.jpg'
+FRAME_DONE 479 6.03
+23:55.628  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0480.jpg'
+FRAME_DONE 480 5.22
+24:00.825  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0481.jpg'
+FRAME_DONE 481 5.2
+24:06.261  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0482.jpg'
+FRAME_DONE 482 5.44
+24:11.555  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0483.jpg'
+FRAME_DONE 483 5.29
+24:18.131  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0484.jpg'
+FRAME_DONE 484 6.58
+24:24.138  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0485.jpg'
+FRAME_DONE 485 6.01
+24:30.250  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0486.jpg'
+FRAME_DONE 486 6.11
+24:35.214  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0487.jpg'
+FRAME_DONE 487 4.96
+24:41.652  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0488.jpg'
+FRAME_DONE 488 6.44
+24:53.816  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0489.jpg'
+FRAME_DONE 489 12.16
+24:58.993  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0490.jpg'
+FRAME_DONE 490 5.18
+25:05.166  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0491.jpg'
+FRAME_DONE 491 6.17
+25:32.985  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0492.jpg'
+FRAME_DONE 492 27.82
+25:38.939  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0493.jpg'
+FRAME_DONE 493 5.95
+26:01.604  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0494.jpg'
+FRAME_DONE 494 22.67
+26:07.721  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0495.jpg'
+FRAME_DONE 495 6.11
+26:12.174  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0496.jpg'
+FRAME_DONE 496 4.45
+26:16.844  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0497.jpg'
+FRAME_DONE 497 4.67
+26:31.299  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0498.jpg'
+FRAME_DONE 498 14.46
+26:42.764  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0499.jpg'
+FRAME_DONE 499 11.47
+26:47.286  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0500.jpg'
+FRAME_DONE 500 4.52
+26:52.223  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0501.jpg'
+FRAME_DONE 501 4.94
+27:00.094  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0502.jpg'
+FRAME_DONE 502 7.87
+27:18.890  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0503.jpg'
+FRAME_DONE 503 18.8
+27:23.537  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0504.jpg'
+FRAME_DONE 504 4.65
+27:28.142  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0505.jpg'
+FRAME_DONE 505 4.6
+27:32.716  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0506.jpg'
+FRAME_DONE 506 4.57
+27:37.307  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0507.jpg'
+FRAME_DONE 507 4.59
+27:41.951  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0508.jpg'
+FRAME_DONE 508 4.64
+28:06.939  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0509.jpg'
+FRAME_DONE 509 24.99
+28:11.794  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0510.jpg'
+FRAME_DONE 510 4.85
+28:16.569  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0511.jpg'
+FRAME_DONE 511 4.77
+28:21.155  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0512.jpg'
+FRAME_DONE 512 4.59
+28:25.831  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0513.jpg'
+FRAME_DONE 513 4.68
+28:39.046  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0514.jpg'
+FRAME_DONE 514 13.21
+28:56.156  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0515.jpg'
+FRAME_DONE 515 17.11
+29:00.803  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0516.jpg'
+FRAME_DONE 516 4.65
+29:05.519  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0517.jpg'
+FRAME_DONE 517 4.72
+29:10.300  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0518.jpg'
+FRAME_DONE 518 4.78
+29:15.992  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0519.jpg'
+FRAME_DONE 519 5.69
+29:40.584  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0520.jpg'
+FRAME_DONE 520 24.59
+29:45.602  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0521.jpg'
+FRAME_DONE 521 5.02
+29:50.569  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0522.jpg'
+FRAME_DONE 522 4.97
+29:55.517  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0523.jpg'
+FRAME_DONE 523 4.95
+30:00.315  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0524.jpg'
+FRAME_DONE 524 4.8
+30:19.883  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0525.jpg'
+FRAME_DONE 525 19.57
+30:29.870  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0526.jpg'
+FRAME_DONE 526 9.99
+30:34.572  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0527.jpg'
+FRAME_DONE 527 4.7
+30:39.232  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0528.jpg'
+FRAME_DONE 528 4.66
+30:43.880  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0529.jpg'
+FRAME_DONE 529 4.65
+30:49.114  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0530.jpg'
+FRAME_DONE 530 5.23
+30:55.987  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0531.jpg'
+FRAME_DONE 531 6.87
+31:04.556  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0532.jpg'
+FRAME_DONE 532 8.57
+31:09.218  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0533.jpg'
+FRAME_DONE 533 4.66
+31:13.981  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0534.jpg'
+FRAME_DONE 534 4.76
+31:18.786  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0535.jpg'
+FRAME_DONE 535 4.8
+31:30.797  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0536.jpg'
+FRAME_DONE 536 12.01
+31:35.632  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0537.jpg'
+FRAME_DONE 537 4.83
+31:40.402  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0538.jpg'
+FRAME_DONE 538 4.77
+31:45.159  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0539.jpg'
+FRAME_DONE 539 4.76
+31:57.053  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0540.jpg'
+FRAME_DONE 540 11.89
+32:01.870  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0541.jpg'
+FRAME_DONE 541 4.82
+32:06.630  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0542.jpg'
+FRAME_DONE 542 4.76
+32:11.293  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0543.jpg'
+FRAME_DONE 543 4.66
+32:23.088  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0544.jpg'
+FRAME_DONE 544 11.8
+32:27.842  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0545.jpg'
+FRAME_DONE 545 4.75
+32:32.543  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0546.jpg'
+FRAME_DONE 546 4.7
+32:37.216  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0547.jpg'
+FRAME_DONE 547 4.67
+32:41.977  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0548.jpg'
+FRAME_DONE 548 4.76
+32:53.808  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0549.jpg'
+FRAME_DONE 549 11.83
+32:58.662  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0550.jpg'
+FRAME_DONE 550 4.85
+33:03.492  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0551.jpg'
+FRAME_DONE 551 4.83
+33:08.306  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0552.jpg'
+FRAME_DONE 552 4.81
+33:19.838  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0553.jpg'
+FRAME_DONE 553 11.53
+33:24.745  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0554.jpg'
+FRAME_DONE 554 4.91
+33:29.563  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0555.jpg'
+FRAME_DONE 555 4.82
+33:34.376  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0556.jpg'
+FRAME_DONE 556 4.81
+33:45.273  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0557.jpg'
+FRAME_DONE 557 10.9
+33:50.319  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0558.jpg'
+FRAME_DONE 558 5.05
+33:55.223  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0559.jpg'
+FRAME_DONE 559 4.9
+34:00.123  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0560.jpg'
+FRAME_DONE 560 4.9
+34:12.048  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0561.jpg'
+FRAME_DONE 561 11.92
+34:17.126  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0562.jpg'
+FRAME_DONE 562 5.08
+34:22.273  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0563.jpg'
+FRAME_DONE 563 5.15
+34:28.918  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0564.jpg'
+FRAME_DONE 564 6.64
+34:38.113  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0565.jpg'
+FRAME_DONE 565 9.2
+34:43.194  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0566.jpg'
+FRAME_DONE 566 5.08
+34:48.166  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0567.jpg'
+FRAME_DONE 567 4.97
+35:00.718  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0568.jpg'
+FRAME_DONE 568 12.55
+35:05.780  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0569.jpg'
+FRAME_DONE 569 5.06
+35:10.742  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0570.jpg'
+FRAME_DONE 570 4.96
+35:15.718  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0571.jpg'
+FRAME_DONE 571 4.98
+35:26.905  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0572.jpg'
+FRAME_DONE 572 11.19
+35:31.906  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0573.jpg'
+FRAME_DONE 573 5.0
+35:36.959  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0574.jpg'
+FRAME_DONE 574 5.05
+35:48.641  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0575.jpg'
+FRAME_DONE 575 11.68
+35:53.935  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0576.jpg'
+FRAME_DONE 576 5.29
+35:58.914  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0577.jpg'
+FRAME_DONE 577 4.98
+36:08.963  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0578.jpg'
+FRAME_DONE 578 10.05
+36:15.531  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0579.jpg'
+FRAME_DONE 579 6.57
+36:20.763  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0580.jpg'
+FRAME_DONE 580 5.23
+36:25.967  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0581.jpg'
+FRAME_DONE 581 5.2
+36:32.928  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0582.jpg'
+FRAME_DONE 582 6.96
+36:42.913  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0583.jpg'
+FRAME_DONE 583 9.99
+36:48.008  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0584.jpg'
+FRAME_DONE 584 5.09
+36:53.236  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0585.jpg'
+FRAME_DONE 585 5.23
+36:58.279  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0586.jpg'
+FRAME_DONE 586 5.04
+37:10.868  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0587.jpg'
+FRAME_DONE 587 12.59
+37:16.069  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0588.jpg'
+FRAME_DONE 588 5.2
+37:21.070  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0589.jpg'
+FRAME_DONE 589 5.0
+37:26.333  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0590.jpg'
+FRAME_DONE 590 5.26
+37:38.832  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0591.jpg'
+FRAME_DONE 591 12.5
+37:43.874  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0592.jpg'
+FRAME_DONE 592 5.04
+37:48.780  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0593.jpg'
+FRAME_DONE 593 4.91
+37:54.017  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0594.jpg'
+FRAME_DONE 594 5.24
+38:05.841  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0595.jpg'
+FRAME_DONE 595 11.82
+38:10.822  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0596.jpg'
+FRAME_DONE 596 4.98
+38:15.824  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0597.jpg'
+FRAME_DONE 597 5.0
+38:20.818  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0598.jpg'
+FRAME_DONE 598 4.99
+38:26.026  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0599.jpg'
+FRAME_DONE 599 5.21
+38:38.851  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0600.jpg'
+FRAME_DONE 600 12.83
+38:43.773  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0601.jpg'
+FRAME_DONE 601 4.92
+38:48.597  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0602.jpg'
+FRAME_DONE 602 4.82
+38:53.890  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0603.jpg'
+FRAME_DONE 603 5.29
+39:05.428  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0604.jpg'
+FRAME_DONE 604 11.54
+39:10.340  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0605.jpg'
+FRAME_DONE 605 4.91
+39:15.269  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0606.jpg'
+FRAME_DONE 606 4.93
+39:20.168  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0607.jpg'
+FRAME_DONE 607 4.9
+39:28.041  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0608.jpg'
+FRAME_DONE 608 7.87
+39:37.264  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0609.jpg'
+FRAME_DONE 609 9.22
+39:42.151  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0610.jpg'
+FRAME_DONE 610 4.89
+39:47.024  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0611.jpg'
+FRAME_DONE 611 4.87
+39:52.101  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0612.jpg'
+FRAME_DONE 612 5.08
+40:04.396  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0613.jpg'
+FRAME_DONE 613 12.3
+40:09.320  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0614.jpg'
+FRAME_DONE 614 4.92
+40:14.217  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0615.jpg'
+FRAME_DONE 615 4.9
+40:21.722  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0616.jpg'
+FRAME_DONE 616 7.5
+40:30.350  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0617.jpg'
+FRAME_DONE 617 8.63
+40:35.237  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0618.jpg'
+FRAME_DONE 618 4.89
+40:40.144  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0619.jpg'
+FRAME_DONE 619 4.91
+40:44.967  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0620.jpg'
+FRAME_DONE 620 4.82
+40:58.020  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0621.jpg'
+FRAME_DONE 621 13.05
+41:02.891  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0622.jpg'
+FRAME_DONE 622 4.87
+41:07.630  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0623.jpg'
+FRAME_DONE 623 4.74
+41:12.342  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0624.jpg'
+FRAME_DONE 624 4.71
+41:19.800  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0625.jpg'
+FRAME_DONE 625 7.46
+41:29.577  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0626.jpg'
+FRAME_DONE 626 9.78
+41:34.469  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0627.jpg'
+FRAME_DONE 627 4.89
+41:39.310  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0628.jpg'
+FRAME_DONE 628 4.84
+41:44.061  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0629.jpg'
+FRAME_DONE 629 4.75
+41:49.665  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0630.jpg'
+FRAME_DONE 630 5.6
+42:01.605  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0631.jpg'
+FRAME_DONE 631 11.94
+42:06.502  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0632.jpg'
+FRAME_DONE 632 4.9
+42:11.418  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0633.jpg'
+FRAME_DONE 633 4.92
+42:16.241  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0634.jpg'
+FRAME_DONE 634 4.82
+42:21.556  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0635.jpg'
+FRAME_DONE 635 5.32
+42:32.926  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0636.jpg'
+FRAME_DONE 636 11.37
+42:38.061  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0637.jpg'
+FRAME_DONE 637 5.13
+42:42.892  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0638.jpg'
+FRAME_DONE 638 4.83
+42:47.632  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0639.jpg'
+FRAME_DONE 639 4.74
+42:55.026  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0640.jpg'
+FRAME_DONE 640 7.4
+43:05.127  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0641.jpg'
+FRAME_DONE 641 10.1
+43:09.913  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0642.jpg'
+FRAME_DONE 642 4.79
+43:14.929  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0643.jpg'
+FRAME_DONE 643 5.02
+43:19.707  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0644.jpg'
+FRAME_DONE 644 4.78
+43:33.894  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0645.jpg'
+FRAME_DONE 645 14.19
+43:38.690  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0646.jpg'
+FRAME_DONE 646 4.8
+43:43.531  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0647.jpg'
+FRAME_DONE 647 4.84
+43:48.468  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0648.jpg'
+FRAME_DONE 648 4.94
+43:53.992  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0649.jpg'
+FRAME_DONE 649 5.52
+44:05.684  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0650.jpg'
+FRAME_DONE 650 11.69
+44:10.597  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0651.jpg'
+FRAME_DONE 651 4.91
+44:15.430  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0652.jpg'
+FRAME_DONE 652 4.83
+44:20.349  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0653.jpg'
+FRAME_DONE 653 4.92
+44:34.613  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0654.jpg'
+FRAME_DONE 654 14.26
+44:39.656  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0655.jpg'
+FRAME_DONE 655 5.04
+44:44.545  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0656.jpg'
+FRAME_DONE 656 4.89
+44:49.467  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0657.jpg'
+FRAME_DONE 657 4.92
+44:54.520  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0658.jpg'
+FRAME_DONE 658 5.05
+45:06.509  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0659.jpg'
+FRAME_DONE 659 11.99
+45:11.404  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0660.jpg'
+FRAME_DONE 660 4.89
+45:16.291  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0661.jpg'
+FRAME_DONE 661 4.89
+45:21.239  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0662.jpg'
+FRAME_DONE 662 4.95
+45:26.071  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0663.jpg'
+FRAME_DONE 663 4.83
+45:38.787  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0664.jpg'
+FRAME_DONE 664 12.72
+45:43.778  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0665.jpg'
+FRAME_DONE 665 4.99
+45:48.665  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0666.jpg'
+FRAME_DONE 666 4.89
+45:53.754  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0667.jpg'
+FRAME_DONE 667 5.09
+46:04.429  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0668.jpg'
+FRAME_DONE 668 10.67
+46:10.494  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0669.jpg'
+FRAME_DONE 669 6.07
+46:15.357  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0670.jpg'
+FRAME_DONE 670 4.86
+46:20.295  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0671.jpg'
+FRAME_DONE 671 4.94
+46:25.050  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0672.jpg'
+FRAME_DONE 672 4.75
+46:37.303  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0673.jpg'
+FRAME_DONE 673 12.25
+46:42.251  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0674.jpg'
+FRAME_DONE 674 4.95
+46:47.057  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0675.jpg'
+FRAME_DONE 675 4.81
+46:52.176  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0676.jpg'
+FRAME_DONE 676 5.12
+46:57.236  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0677.jpg'
+FRAME_DONE 677 5.06
+47:08.371  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0678.jpg'
+FRAME_DONE 678 11.14
+47:13.295  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0679.jpg'
+FRAME_DONE 679 4.92
+47:18.072  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0680.jpg'
+FRAME_DONE 680 4.78
+47:23.998  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0681.jpg'
+FRAME_DONE 681 5.93
+47:34.218  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0682.jpg'
+FRAME_DONE 682 10.22
+47:39.083  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0683.jpg'
+FRAME_DONE 683 4.87
+47:43.747  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0684.jpg'
+FRAME_DONE 684 4.66
+47:54.552  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0685.jpg'
+FRAME_DONE 685 10.81
+48:00.163  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0686.jpg'
+FRAME_DONE 686 5.61
+48:04.935  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0687.jpg'
+FRAME_DONE 687 4.77
+48:09.598  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0688.jpg'
+FRAME_DONE 688 4.66
+48:15.242  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0689.jpg'
+FRAME_DONE 689 5.64
+48:26.287  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0690.jpg'
+FRAME_DONE 690 11.05
+48:31.012  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0691.jpg'
+FRAME_DONE 691 4.72
+48:35.692  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0692.jpg'
+FRAME_DONE 692 4.68
+48:40.672  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0693.jpg'
+FRAME_DONE 693 4.98
+48:51.636  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0694.jpg'
+FRAME_DONE 694 10.96
+48:56.404  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0695.jpg'
+FRAME_DONE 695 4.77
+49:01.163  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0696.jpg'
+FRAME_DONE 696 4.76
+49:11.666  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0697.jpg'
+FRAME_DONE 697 10.5
+49:16.483  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0698.jpg'
+FRAME_DONE 698 4.82
+49:21.353  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0699.jpg'
+FRAME_DONE 699 4.87
+49:26.157  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0700.jpg'
+FRAME_DONE 700 4.8
+49:38.610  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0701.jpg'
+FRAME_DONE 701 12.45
+49:43.659  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0702.jpg'
+FRAME_DONE 702 5.05
+49:48.635  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0703.jpg'
+FRAME_DONE 703 4.98
+49:54.041  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0704.jpg'
+FRAME_DONE 704 5.41
+50:05.040  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0705.jpg'
+FRAME_DONE 705 11.0
+50:09.922  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0706.jpg'
+FRAME_DONE 706 4.88
+50:14.797  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0707.jpg'
+FRAME_DONE 707 4.88
+50:19.686  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0708.jpg'
+FRAME_DONE 708 4.89
+50:31.842  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0709.jpg'
+FRAME_DONE 709 12.16
+50:37.218  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0710.jpg'
+FRAME_DONE 710 5.38
+50:42.216  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0711.jpg'
+FRAME_DONE 711 5.0
+50:50.046  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0712.jpg'
+FRAME_DONE 712 7.83
+50:58.378  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0713.jpg'
+FRAME_DONE 713 8.33
+51:03.310  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0714.jpg'
+FRAME_DONE 714 4.93
+51:08.183  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0715.jpg'
+FRAME_DONE 715 4.87
+51:17.190  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0716.jpg'
+FRAME_DONE 716 9.01
+51:24.275  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0717.jpg'
+FRAME_DONE 717 7.08
+51:29.138  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0718.jpg'
+FRAME_DONE 718 4.86
+51:34.115  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0719.jpg'
+FRAME_DONE 719 4.98
+51:44.335  render           | Saved: '/Users/lucaschu/.codex/artifacts/presidio-544b/work/improved_frames/0720.jpg'
+FRAME_DONE 720 10.22
+ALL_NATIVE_FRAMES_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
