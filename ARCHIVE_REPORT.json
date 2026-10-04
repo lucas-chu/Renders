@@ -1,0 +1,47 @@
+{
+  "source_file_count": 4912,
+  "source_bytes": 16760913526,
+  "projects": {
+    "chateau-frontenac": {
+      "files": 855,
+      "bytes": 2761737068
+    },
+    "colosseum": {
+      "files": 1619,
+      "bytes": 4972654112
+    },
+    "presidio-544b": {
+      "files": 1646,
+      "bytes": 4033965318
+    },
+    "saint-peters": {
+      "files": 792,
+      "bytes": 4992557028
+    }
+  },
+  "lfs_verification": {
+    "unique_lfs_objects": 4634,
+    "remote_download_available": 4634,
+    "errors": [],
+    "verified_bytes": 16724794284
+  },
+  "excluded": [
+    {
+      "path": "saint-peters/work/geoenv",
+      "reason": "dependency/cache directory"
+    },
+    {
+      "path": "colosseum/v2/scripts/__pycache__",
+      "reason": "dependency/cache directory"
+    },
+    {
+      "path": "colosseum/scripts/__pycache__",
+      "reason": "dependency/cache directory"
+    },
+    {
+      "path": "chateau-frontenac/work/beauty/frames 2",
+      "reason": "unavailable or machine-local symlink"
+    }
+  ],
+  "verification": "Every archived source file is tracked; text and pointer checksums match the staged inventory; every unique LFS object is available from GitHub."
+}

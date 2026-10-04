@@ -38,4 +38,6 @@ The scripts are preserved as originally used and may contain machine-specific ab
 
 ## Import status
 
-Upload started on 2026-10-03. Scene files and deliverables are being uploaded first, followed by all available saved frame sequences. The final import report will record the completed file count and any unavailable files.
+Archive complete: **4,912 project files**, representing **16.76 GB** of source material, across all four projects. All available saved frames are included. Every unique Git LFS object was checked for availability on GitHub.
+
+See [FILE_MANIFEST.json](FILE_MANIFEST.json) for file sizes and content checksums, and [ARCHIVE_REPORT.json](ARCHIVE_REPORT.json) for per-project counts, remote verification, and exclusions. This verifies the upload, not the visual quality or completion of previously unfinished revisions.
