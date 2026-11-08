@@ -2,6 +2,10 @@
 
 Blender architectural scenes, rendered films, textures, references, source scripts, and saved animation frames.
 
+## Featured film
+
+[**The Last Stand · Rome, 1527**](saint-peters/last-stand-1527) — a 30-second animated account of the Swiss Guard’s defense and the escape of Clement VII. The edition includes the upscaled 4K film, editable Blender scene, music credits and rebuild scripts. The original four-project import inventory below describes the October archive; subsequent editions carry their own manifests.
+
 ## Projects
 
 | Project | Scene and film location | Archive notes |

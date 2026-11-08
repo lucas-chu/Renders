@@ -1,0 +1,56 @@
+{
+  "edition": "The Last Stand, 1527",
+  "fps": 24,
+  "duration_seconds": 30,
+  "frames": 720,
+  "native_render": [
+    1440,
+    810
+  ],
+  "encoded": [
+    3840,
+    2160
+  ],
+  "files": [
+    {
+      "path": "The Last Stand - 1527.mp4",
+      "bytes": 74265476,
+      "sha256": "aee2dd56ab70fd5d2f05c331f39903258a6f7b86b6285f1ce82d7aced92869b5"
+    },
+    {
+      "path": "The Last Stand.blend",
+      "bytes": 2523261,
+      "sha256": "7a6f0326f524a6da7d31805aab86f267cb21e867d92c7c4aec7b0d8d229ea8e0"
+    },
+    {
+      "path": "Ave Maria.m4a",
+      "bytes": 945735,
+      "sha256": "9ab7187ef82a725cff75ecfe07570d88d570d92015f854de0a73b093e6a66640"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2893,
+      "sha256": "9063e4dcb95325d464b319b506eda775123cd55ad1fc66a0672a9d06969ac891"
+    },
+    {
+      "path": "build.py",
+      "bytes": 20594,
+      "sha256": "2d394b21acffa858f9a37ca2dc6c04fe0606a21bdaa383aa9cb9c2ced1649f22"
+    },
+    {
+      "path": "foley.py",
+      "bytes": 1303,
+      "sha256": "ca2160eeb00afb0ee099716757ea809c854299eaf625a660a2efada52d2b70a7"
+    },
+    {
+      "path": "finish.py",
+      "bytes": 2989,
+      "sha256": "ad3aebe724a9ba6bb2e3623be160aeefde1efc30399d72dd5111e5748dc42714"
+    },
+    {
+      "path": "Cover.jpg",
+      "bytes": 148110,
+      "sha256": "10f458d51add1edf97c5d7c1734d3c7dda4bebae4e04523c92265aed0a98112c"
+    }
+  ]
+}
